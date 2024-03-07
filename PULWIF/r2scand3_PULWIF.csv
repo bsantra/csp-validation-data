@@ -1,0 +1,113 @@
+pbed3_density,r2scand3_relative_energy,space_group,title
+   1.44289,    0.00000,       Pnna,           Pnna_2GI_PULQIF_1_85
+   1.45518,    0.38060,       Pbca,          Pbca_GIS_PULQIF_1_143
+   1.45025,    0.57033,      P21/c,         P21c_IST_PULQIF_1_2866
+   1.45834,    0.68191,      P21/c,         P21c_IST_PULQIF_1_1829
+   1.41125,    0.81191,      C 2/c, C2c_ITG_PULQIF_1_222_conventional
+   1.44081,    0.96118,      C 2/c, C2c_I2T_PULQIF_1_219_conventional
+   1.42721,    1.06826,      C 2/c, C2c_SI2T_PULQIF_0_35874_conventional
+   1.42135,    1.17674,        P-1,        P-1_ITTT_PULQIF_0_11484
+   1.43033,    1.31580,        P-1,         P-1_TITT_PULQIF_1_4343
+   1.44608,    1.34165,        P-1,         P-1_TITT_PULQIF_1_2685
+   1.42191,    1.40313,      C 2/c, C2c_IST_PULQIF_0_6343_conventional
+   1.41722,    1.47345,      P21/c,          P21c_GIT_PULQIF_1_853
+   1.46548,    1.48756,      P21/c,         P21c_TSI_PULQIF_1_2876
+   1.45995,    1.48949,      C 2/c, C2c_IST_PULQIF_2_6946_conventional
+   1.43542,    1.52972,      P21/c,         P21c_GIT_PULQIF_1_2434
+   1.40586,    1.57815,      Pca21,         Pca21_GST_PULQIF_1_130
+   1.44241,    1.63094,       Pbca,          Pbca_GIS_PULQIF_1_438
+   1.44687,    1.63724,      C 2/c, C2c_SI2T_PULQIF_3_28142_conventional
+   1.43431,    1.67786,      P21/c,          P21c_ITS_PULQIF_1_122
+   1.42271,    1.69615,      P21/c,         P21c_IST_PULQIF_1_2498
+   1.42576,    1.71186,      P21/c,         P21c_SIT_PULQIF_0_9946
+   1.38397,    1.73066,      P21/c,          P21c_GIT_PULQIF_1_397
+   1.46405,    1.74525,      C 2/c, C2c_I2T_PULQIF_1_360_conventional
+   1.42488,    1.75750,       P2/c,           P2c_T2II_PULQIF_0_12
+   1.42489,    1.76274,    F d d 2, Fdd2_SG_PULQIF_1_780_conventional
+   1.47494,    1.76781,        P-1,         P-1_TITT_PULQIF_0_6699
+   1.40697,    1.80408,      P21/c,          P21c_GIT_PULQIF_1_318
+   1.43576,    1.83260,        P-1,        P-1_ITTT_PULQIF_3_28131
+   1.39183,    1.87359,         P1,            P1_TTT_PULQIF_1_397
+   1.39829,    1.91752,         P1,            P1_TTT_PULQIF_1_395
+   1.38917,    1.94778,    P212121,        P212121_SS_PULQIF_1_545
+   1.38309,    1.95071,      Pna21,        Pna21_SSG_PULQIF_0_1675
+   1.43882,    1.96975,      P21/c,         P21c_STI_PULQIF_3_4452
+   1.39130,    1.97112,      P21/c,         P21c_IST_PULQIF_0_3644
+   1.44264,    1.97371,        P-1,         P-1_ITTT_PULQIF_0_8876
+   1.43505,    1.99643,      C 2/c, C2c_IST_PULQIF_0_5194_conventional
+   1.41951,    2.01772,      P21/c,          P21c_IST_PULQIF_1_561
+   1.40372,    2.03333,      C 2/c, C2c_I2T_PULQIF_0_2142_conventional
+   1.42950,    2.04676,       Pbca,          Pbca_GIS_PULQIF_0_892
+   1.40288,    2.05775,      P21/c,         P21c_IST_PULQIF_1_2504
+   1.45576,    2.06478,      C 2/c, C2c_SI2T_PULQIF_2_3891_conventional
+   1.42620,    2.06518,      P21/c,         P21c_STI_PULQIF_0_5983
+   1.47097,    2.08167,      P21/c,          P21c_GIT_PULQIF_6_424
+   1.41314,    2.09043,       Pbca,          Pbca_ISS_PULQIF_0_436
+   1.42232,    2.11298,      P21/c,          P21c_GIT_PULQIF_1_688
+   1.44624,    2.11727,      P21/c,         P21c_IST_PULQIF_2_7352
+   1.39944,    2.12417,      P21/c,         P21c_IST_PULQIF_0_4281
+   1.38880,    2.14735,      P21/c,         P21c_IST_PULQIF_0_5247
+   1.40619,    2.15727,      P21/c,        P21c_SIT_PULQIF_0_10018
+   1.40524,    2.15974,      P21/c,         P21c_STI_PULQIF_7_2642
+   1.40491,    2.16935,       Pbca,         Pbca_SIS_PULQIF_1_2156
+   1.42565,    2.18165,      C 2/c, C2c_I2T_PULQIF_0_1987_conventional
+   1.38961,    2.18944,      P21/c,         P21c_TSI_PULQIF_0_3021
+   1.43913,    2.19304,       Pbca,         Pbca_ISS_PULQIF_2_6541
+   1.42922,    2.19357,        P21,           P21_TST_PULQIF_1_454
+   1.41721,    2.21302,        P-1,        P-1_ITTT_PULQIF_2_20941
+   1.44474,    2.23091,      P21/c,         P21c_SIT_PULQIF_3_4553
+   1.43327,    2.24425,      P21/c,         P21c_TSI_PULQIF_3_3780
+   1.40505,    2.25819,      P21/c,         P21c_GIT_PULQIF_0_1663
+   1.45215,    2.26438,        P-1,        P-1_TITT_PULQIF_3_18743
+   1.45431,    2.29327,      P21/c,         P21c_GIT_PULQIF_0_3304
+   1.42948,    2.32018,      Pna21,         Pna21_SG_PULQIF_0_1038
+   1.43218,    2.32076,      C 2/c, C2c_SIT_PULQIF_3_6242_conventional
+   1.43668,    2.32810,       Pbca,         Pbca_ISS_PULQIF_2_4479
+   1.42209,    2.33634,      C 2/c, C2c_SIT_PULQIF_0_1091_conventional
+   1.40530,    2.33938,      P21/c,          P21c_GIT_PULQIF_2_681
+   1.44657,    2.35945,      P21/c,         P21c_IST_PULQIF_2_6106
+   1.42413,    2.36567,      C 2/c, C2c_SIT_PULQIF_3_6155_conventional
+   1.43916,    2.36605,      Pna21,        Pna21_SSG_PULQIF_0_5436
+   1.42910,    2.36647,      C 2/c, C2c_SI2T_PULQIF_2_4562_conventional
+   1.42961,    2.37905,    P212121,          P212121_SS_PULQIF_3_1
+   1.41707,    2.39968,       Pbca,         Pbca_GTIS_PULQIF_1_584
+   1.43267,    2.40250,        P-1,        P-1_ITTT_PULQIF_2_12677
+   1.43656,    2.41043,      P21/c,         P21c_STI_PULQIF_2_3350
+   1.44096,    2.42299,      P21/c,         P21c_TSI_PULQIF_1_1594
+   1.41730,    2.45409,      P21/c,         P21c_GIT_PULQIF_0_2563
+   1.43934,    2.46961,    P212121,        P212121_SS_PULQIF_1_635
+   1.39767,    2.48451,        P-1,           P-1_ITTT_PULQIF_1_45
+   1.41157,    2.50071,      Pna21,           Pna21_GS_PULQIF_1_51
+   1.42604,    2.50282,      Pca21,         Pca21_TGS_PULQIF_3_633
+   1.41375,    2.53814,       Pbca,          Pbca_GIS_PULQIF_1_564
+   1.40802,    2.56397,        P-1,        P-1_ITTT_PULQIF_2_32509
+   1.43219,    2.57278,      P21/c,          P21c_IST_PULQIF_0_963
+   1.45106,    2.58028,    F d d 2, Fdd2_SG_PULQIF_3_951_conventional
+   1.39948,    2.58475,        P-1,        P-1_ITTT_PULQIF_3_28534
+   1.40646,    2.58540,      P21/c,         P21c_TSI_PULQIF_1_2215
+   1.39959,    2.59311,        P-1,        P-1_ITTT_PULQIF_3_23159
+   1.40984,    2.63960,      P21/c,           P21c_TSI_PULQIF_1_46
+   1.46449,    2.63960,      P21/c,         P21c_IST_PULQIF_3_9329
+   1.42733,    2.66592,        P-1,         P-1_ITTT_PULQIF_1_1841
+   1.43162,    2.66645,        P-1,        P-1_ITTT_PULQIF_0_10667
+   1.42238,    2.67544,      P21/c,         P21c_TSI_PULQIF_3_4256
+   1.43382,    2.68610,      P21/c,         P21c_IST_PULQIF_3_8150
+   1.40038,    2.68826,        P-1,         P-1_ITTT_PULQIF_3_8198
+   1.42691,    2.70228,      P21/c,         P21c_IST_PULQIF_0_2208
+   1.46230,    2.70274,      P21/c,        P21c_IST_PULQIF_3_15071
+   1.41323,    2.71285,      P21/c,          P21c_GIT_PULQIF_1_669
+   1.37779,    2.75032,      P21/c,         P21c_IST_PULQIF_0_3331
+   1.42347,    2.75329,      C 2/c, C2c_IST_PULQIF_1_458_conventional
+   1.43587,    2.76455,      P21/c,          P21c_GIT_PULQIF_0_755
+   1.40726,    2.76702,      C 2/c, C2c_SIT_PULQIF_1_6840_conventional
+   1.41752,    2.77961,        P-1,        P-1_ITTT_PULQIF_2_35115
+   1.45106,    2.78300,      P21/c,         P21c_IST_PULQIF_0_4105
+   1.43168,    2.79961,      P21/c,         P21c_IST_PULQIF_0_5393
+   1.43157,    2.82757,       Pbca,           Pbca_SIS_PULQIF_1_75
+   1.40361,    2.84728,       Pbca,          Pbca_GIS_PULQIF_1_516
+   1.44477,    2.84808,      P21/c,         P21c_IST_PULQIF_0_4572
+   1.42472,    2.85749,      P21/c,         P21c_TSI_PULQIF_1_1693
+   1.41626,    2.86422,      P21/c,          P21c_IST_PULQIF_1_777
+   1.42091,    2.86693,      C 2/c, C2c_SIT_PULQIF_2_1094_conventional
+   1.40388,    2.87915,      P21/c,          P21c_IST_PULQIF_0_552
+   1.39159,    2.89514,      P21/c,          P21c_IST_PULQIF_0_431
