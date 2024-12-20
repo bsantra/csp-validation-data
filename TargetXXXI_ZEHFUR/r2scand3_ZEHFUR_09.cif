@@ -1,0 +1,109 @@
+#
+#     Schrodinger Suite 2025-1.
+#
+data_r2scand3_ZEHFUR_09
+#
+_entry.id                      r2scand3_ZEHFUR_09
+#
+_audit_conform.dict_name       mmcif_pdbx.dic
+_audit_conform.dict_version    5.391
+_audit_conform.dict_location   http://mmcif.pdb.org/dictionaries/ascii/mmcif_pdbx.dic
+#
+_cell.entry_id  r2scand3_ZEHFUR_09
+_cell.length_a  6.98820364914794
+_cell.length_b  9.65379626311445
+_cell.length_c  10.189358759271833
+_cell.angle_alpha  89.99862353864654
+_cell.angle_beta   104.37291154509583
+_cell.angle_gamma  90.00028266246746
+#
+_space_group.id  r2scand3_ZEHFUR_09
+_space_group.IT_number  4
+_space_group_name_H-M_alt  'P21'
+#
+loop_
+_symmetry_equiv.id
+_symmetry_equiv.pos_as_xyz
+    1    'x,y,z'
+    1    '-x,y+1/2,-z'
+#
+loop_
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_seq_id
+_atom_site.label_entity_id
+_atom_site.label_asym_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.pdbx_formal_charge
+    1  H ? . UNK 0 ? ? ? ?  2.960     8.739     2.759    0
+    2  C ? . UNK 0 ? ? ? ?  2.089     8.925     3.390    0
+    3  C ? . UNK 0 ? ? ? ?  1.157     9.900     3.035    0
+    4  H ? . UNK 0 ? ? ? ?  1.294     10.479    2.119    0
+    5  C ? . UNK 0 ? ? ? ?  0.046     10.128    3.838    0
+    6  H ? . UNK 0 ? ? ? ? -0.691     10.885    3.564    0
+    7  C ? . UNK 0 ? ? ? ? -0.160     9.378     5.006    0
+    8  C ? . UNK 0 ? ? ? ? -1.362     9.644     5.846    0
+    9  F ? . UNK 0 ? ? ? ? -1.874     8.529     6.451    0
+    10 F ? . UNK 0 ? ? ? ? -2.374     10.214    5.119    0
+    11 S ? . UNK 0 ? ? ? ? -1.075     10.926    7.237    0
+    12 O ? . UNK 0 ? ? ? ? -2.350     11.080    7.913    0
+    13 O ? . UNK 0 ? ? ? ? -0.406     12.060    6.622    0
+    14 C ? . UNK 0 ? ? ? ?  0.094     10.157    8.322    0
+    15 N ? . UNK 0 ? ? ? ? -0.358     9.319     9.195    0
+    16 O ? . UNK 0 ? ? ? ?  0.666     8.832     9.943    0
+    17 C ? . UNK 0 ? ? ? ?  1.991     9.473     9.518    0
+    18 C ? . UNK 0 ? ? ? ?  2.494     10.222    10.736   0
+    19 H ? . UNK 0 ? ? ? ?  3.444     10.721    10.487   0
+    20 H ? . UNK 0 ? ? ? ?  2.674     9.524     11.568   0
+    21 H ? . UNK 0 ? ? ? ?  1.775     10.991    11.056   0
+    22 C ? . UNK 0 ? ? ? ?  2.901     8.337     9.103    0
+    23 H ? . UNK 0 ? ? ? ?  3.024     7.614     9.922    0
+    24 H ? . UNK 0 ? ? ? ?  3.898     8.735     8.862    0
+    25 H ? . UNK 0 ? ? ? ?  2.501     7.821     8.218    0
+    26 C ? . UNK 0 ? ? ? ?  1.570     10.395    8.352    0
+    27 H ? . UNK 0 ? ? ? ?  2.060     10.124    7.403    0
+    28 H ? . UNK 0 ? ? ? ?  1.802     11.453    8.549    0
+    29 C ? . UNK 0 ? ? ? ?  0.804     8.421     5.343    0
+    30 F ? . UNK 0 ? ? ? ?  0.661     7.692     6.487    0
+    31 C ? . UNK 0 ? ? ? ?  1.917     8.178     4.553    0
+    32 H ? . UNK 0 ? ? ? ?  2.636     7.412     4.855    0
+    33 H ? . UNK 0 ? ? ? ?  1.499     3.912     7.112    0
+    34 C ? . UNK 0 ? ? ? ?  2.369     4.099     6.481    0
+    35 C ? . UNK 0 ? ? ? ?  3.301     5.074     6.835    0
+    36 H ? . UNK 0 ? ? ? ?  3.165     5.653     7.752    0
+    37 C ? . UNK 0 ? ? ? ?  4.413     5.302     6.032    0
+    38 H ? . UNK 0 ? ? ? ?  5.150     6.058     6.307    0
+    39 C ? . UNK 0 ? ? ? ?  4.619     4.551     4.864    0
+    40 C ? . UNK 0 ? ? ? ?  5.821     4.817     4.025    0
+    41 F ? . UNK 0 ? ? ? ?  6.332     3.702     3.419    0
+    42 F ? . UNK 0 ? ? ? ?  6.833     5.387     4.751    0
+    43 S ? . UNK 0 ? ? ? ?  5.535     6.099     2.633    0
+    44 O ? . UNK 0 ? ? ? ?  6.809     6.253     1.958    0
+    45 O ? . UNK 0 ? ? ? ?  4.865     7.233     3.248    0
+    46 C ? . UNK 0 ? ? ? ?  4.364     5.330     1.548    0
+    47 N ? . UNK 0 ? ? ? ?  4.817     4.492     0.675    0
+    48 O ? . UNK 0 ? ? ? ?  3.793     4.005    -0.072    0
+    49 C ? . UNK 0 ? ? ? ?  2.468     4.646     0.352    0
+    50 C ? . UNK 0 ? ? ? ?  1.965     5.395    -0.866    0
+    51 H ? . UNK 0 ? ? ? ?  1.014     5.893    -0.617    0
+    52 H ? . UNK 0 ? ? ? ?  1.784     4.697    -1.698    0
+    53 H ? . UNK 0 ? ? ? ?  2.684     6.163    -1.186    0
+    54 C ? . UNK 0 ? ? ? ?  1.558     3.510     0.768    0
+    55 H ? . UNK 0 ? ? ? ?  1.435     2.787    -0.052    0
+    56 H ? . UNK 0 ? ? ? ?  0.561     3.908     1.008    0
+    57 H ? . UNK 0 ? ? ? ?  1.958     2.994     1.653    0
+    58 C ? . UNK 0 ? ? ? ?  2.889     5.568     1.519    0
+    59 H ? . UNK 0 ? ? ? ?  2.399     5.297     2.468    0
+    60 H ? . UNK 0 ? ? ? ?  2.656     6.626     1.321    0
+    61 C ? . UNK 0 ? ? ? ?  3.655     3.594     4.528    0
+    62 F ? . UNK 0 ? ? ? ?  3.798     2.865     3.383    0
+    63 C ? . UNK 0 ? ? ? ?  2.542     3.351     5.317    0
+    64 H ? . UNK 0 ? ? ? ?  1.822     2.585     5.015    0
+#
