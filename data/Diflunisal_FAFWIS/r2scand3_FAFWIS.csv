@@ -1,0 +1,53 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.56874,    0.00000, P 1 1 21/b,         P21c_IST_FAFWIS_7_624,none,none
+   1.55037,    0.14231,       P -1,         P-1_ITTT_FAFWIS_1_696,none,none
+   1.57393,    0.16783, P 21/c 1 1,        P21c_STI_FAFWIS_0_2631,none,none
+   1.54781,    0.20065, P 1 21/n 1,        P21c_TSI_FAFWIS_0_3289,none,none
+   1.54052,    0.29008,       P -1,P-1_TITT_FAFWIS_2_587_FAFWIS01_form-I,form-I,FAFWIS01
+   1.54050,    0.35255, P 21/n 1 1,         P21c_STI_FAFWIS_1_346,none,none
+   1.57841,    0.36303,      C 2/c,C2c_SI2T_FAFWIS_0_11578_conventional,none,none
+   1.54394,    0.42011, P 1 1 21/n,        P21c_IST_FAFWIS_0_1798,none,none
+   1.55045,    0.45897, P 21/b 1 1,         P21c_GIT_FAFWIS_6_771,none,none
+   1.56902,    0.46259,      C 2/c,C2c_SI2T_FAFWIS_0_1735_conventional,none,none
+   1.55818,    0.51957, P 1 1 21/b,        P21c_IST_FAFWIS_0_1749,none,none
+   1.53638,    0.53261, P 1 21/n 1,         P21c_TSI_FAFWIS_1_549,none,none
+   1.56198,    0.58790,       P -1,        P-1_TITT_FAFWIS_0_1419,none,none
+   1.61072,    0.65658, P 21 21 21,      P212121_SS_FAFWIS_2_1962,none,none
+   1.55442,    0.74533,      C 2/c,C2c_SIT_FAFWIS_0_5845_conventional,none,none
+   1.55081,    0.77370,      C 2/c,C2c_SIT_FAFWIS_0_5273_conventional,none,none
+   1.54413,    0.80499, P 21/n 1 1,        P21c_STI_FAFWIS_1_2660,none,none
+   1.55518,    0.81184, P 21/n 1 1,        P21c_SIT_FAFWIS_0_3727,none,none
+   1.50881,    0.83451, P 1 1 21/a,        P21c_GIT_FAFWIS_0_1471,none,none
+   1.56230,    0.83601, P 21/b 1 1,        P21c_STI_FAFWIS_0_4222,none,none
+   1.53235,    0.85087, P 21/c 1 1,        P21c_TSI_FAFWIS_6_2817,none,none
+   1.54802,    0.86285, P 21/n 1 1,        P21c_IST_FAFWIS_0_2254,none,none
+   1.56387,    0.87594,      C 2/c,C2c_SI2T_FAFWIS_0_9699_conventional,none,none
+   1.52979,    0.88390,      C 2/c,C2c_SI2T_FAFWIS_1_694_conventional,none,none
+   1.52607,    0.89023, P 21/c 1 1,        P21c_SIT_FAFWIS_1_2885,none,none
+   1.52869,    0.97104, P 21/b 1 1,        P21c_GIT_FAFWIS_7_1455,none,none
+   1.50635,    1.00338,      C 2/c,C2c_SI2T_FAFWIS_1_6173_conventional,none,none
+   1.52814,    1.01693, P 21/b 1 1,          P21c_IST_FAFWIS_2_84,none,none
+   1.52388,    1.06409,      C 2/c,C2c_IST_FAFWIS_1_271_conventional,none,none
+   1.49911,    1.11215,      C 2/c,C2c_IST_FAFWIS_1_4_conventional,none,none
+   1.52399,    1.13016, P 21/c 1 1,         P21c_IST_FAFWIS_1_475,none,none
+   1.53725,    1.13225,      C 2/c,C2c_SI2T_FAFWIS_1_2778_conventional,none,none
+   1.55608,    1.15104,      C 2/c,C2c_SI2T_FAFWIS_0_8984_conventional,none,none
+   1.55829,    1.16627,  P 2/b 1 1,        P2c_T2II_FAFWIS_0_1924,none,none
+   1.59387,    1.24527, P 1 1 21/b,         P21c_GIT_FAFWIS_0_113,none,none
+   1.55453,    1.24537, P 21/b 1 1,        P21c_IST_FAFWIS_2_1413,none,none
+   1.50754,    1.25911,       P -1,         P-1_TITT_FAFWIS_0_571,none,none
+   1.48757,    1.27318, P 21/n 1 1,        P21c_IST_FAFWIS_6_1787,none,none
+   1.53488,    1.30937,  P 2/b 1 1,        P2c_T2II_FAFWIS_0_1500,none,none
+   1.53679,    1.31649, P 1 21/n 1,        P21c_TSI_FAFWIS_2_6292,none,none
+   1.50943,    1.34003, P 21/n 1 1,        P21c_STI_FAFWIS_1_2036,none,none
+   1.53705,    1.50555, P 21/n 1 1,        P21c_STI_FAFWIS_1_3649,none,none
+   1.37675,    1.57948,     P 21/c,        P21c_TSI_FAFWIS_0_4234,none,none
+   1.52663,    1.58379,      C 2/c,C2c_SI2T_FAFWIS_0_9654_conventional,none,none
+   1.48045,    1.59186, P 21/c 1 1,        P21c_SIT_FAFWIS_2_2782,none,none
+   1.49242,    1.59453,       P -1,        P-1_ITTT_FAFWIS_2_1201,none,none
+   1.52183,    1.78446, P 21/n 1 1,         P21c_IST_FAFWIS_1_420,none,none
+   1.52584,    1.80234,  P 2/b 1 1,        P2c_T2II_FAFWIS_7_1634,none,none
+   1.49373,    1.82709, P 1 1 21/a,        P21c_IST_FAFWIS_6_2452,none,none
+   1.46535,    1.99116,       Pcan,         Pbcn_GIG_FAFWIS_7_262,none,none
+   1.51084,    2.17828,      C 2/c,C2c_SIT_FAFWIS_0_2569_conventional,none,none
+   1.36629,    2.38905,      C 2/c,C2c_SI2T_FAFWIS_0_8744_FAFWIS_form-V_conventional,form-V,FAFWIS

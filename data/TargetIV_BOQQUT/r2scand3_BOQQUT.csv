@@ -1,0 +1,30 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.36803,    0.00000, P 1 1 21/a,P21c_GIT_BOQQUT_0_302_BOQQUT02_form-I,form-I,BOQQUT02
+   1.37214,    0.32831,      C 2/c,C2c_IST_BOQQUT_0_1213_conventional,none,none
+   1.36554,    0.41538,       Pcab,        Pbca_GTIS_BOQQUT_0_797,none,none
+   1.36021,    0.63275, P 21/b 1 1,        P21c_IST_BOQQUT_0_4308,none,none
+   1.32304,    0.67444,       Pcab,        Pbca_GIS_BOQQUT_0_1347,none,none
+   1.30883,    0.86968,      C 2/c,C2c_IST_BOQQUT_0_2339_conventional,none,none
+   1.36613,    0.91150, P 21 21 21,      P212121_SS_BOQQUT_0_3116,none,none
+   1.32373,    0.91432,      C 2/c,C2c_ITG_BOQQUT_0_6484_conventional,none,none
+   1.34575,    0.99777, P 21 21 21,       P212121_SS_BOQQUT_0_545,none,none
+   1.34068,    1.05930, P 21/c 1 1,        P21c_TIS_BOQQUT_0_3462,none,none
+   1.33023,    1.06558,      P21ca,         Pca21_CST_BOQQUT_0_47,none,none
+   1.32578,    1.11623, P 21/b 1 1,        P21c_IST_BOQQUT_0_8144,none,none
+   1.32137,    1.23401,    P b c a,        Pbca_GTIS_BOQQUT_0_913,none,none
+   1.30361,    1.28456,  P 1 1 2/a,        P2c_T2II_BOQQUT_0_3741,none,none
+   1.33072,    1.29501,       Pbna,         Pbcn_G2I_BOQQUT_0_514,none,none
+   1.33725,    1.34956,       P -1,       P-1_TITT_BOQQUT_0_10002,none,none
+   1.31721,    1.36545, P 1 1 21/n,         P21c_GIT_BOQQUT_0_547,none,none
+   1.32363,    1.38052,      Pb21a,        Pca21_CST_BOQQUT_0_153,none,none
+   1.29924,    1.46087,       Pcab,        Pbca_ISS_BOQQUT_0_2540,none,none
+   1.30595,    1.49167,    P b c a,        Pbca_SIS_BOQQUT_0_4261,none,none
+   1.32416,    1.49614,       P 21,         P21_TST_BOQQUT_0_1170,none,none
+   1.27684,    1.49975,      C 2/c,C2c_I2T_BOQQUT_0_4497_conventional,none,none
+   1.32649,    1.51527, P 1 1 21/n,        P21c_TSI_BOQQUT_0_2892,none,none
+   1.34604,    1.52762, P 1 21/a 1,        P21c_GIT_BOQQUT_0_2792,none,none
+   1.27556,    1.58001,     P 21/c,         P21c_TIG_BOQQUT_0_814,none,none
+   1.30572,    1.58795,      P21cn,         Pna21_SG_BOQQUT_0_473,none,none
+   1.30590,    1.58960, P 21/c 1 1,        P21c_TSI_BOQQUT_0_1040,none,none
+   1.33714,    1.62013, P 21 21 21,      P212121_SS_BOQQUT_0_3063,none,none
+   1.30504,    1.67454,       Pnab,         Pbcn_G2I_BOQQUT_0_398,none,none

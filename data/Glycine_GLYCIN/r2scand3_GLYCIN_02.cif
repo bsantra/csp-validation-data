@@ -1,0 +1,70 @@
+# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1
+data_r2scand3_GLYCIN_02
+
+_symmetry_space_group_name_H-M   "P 1"
+_cell_length_a   5.102492
+_cell_length_b   5.960185
+_cell_length_c   11.986083
+_cell_angle_alpha   90.0088
+_cell_angle_beta   89.9926
+_cell_angle_gamma   121.5442
+_cell_formula_units_Z   4
+
+_csp_NAME_EXP_FORM   form-alpha
+_csp_CSD_REFCODE   GLYCIN03
+_csp_title   "P21c_md_dedup_zwitterions-734_optimized_GLYCIN03_form-alpha"
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+    O1  O     0.54742201    0.75637407    0.59887299
+    C1  C     0.49379707    0.93419697    0.62509098
+    O2  O     0.22817298    0.90073204    0.63696300
+    C2  C     0.77040694    1.21074501    0.64566201
+    H1  H     0.82129595    1.23580798    0.73574098
+    H2  H     0.71796710    1.36002403    0.61996103
+    N1  N     1.04849194    1.25809993    0.58550899
+    H3  H     1.00181803    1.22450001    0.50016100
+    H4  H     1.12116390    1.13022992    0.61274099
+    H5  H     1.23686499    1.45718391    0.59540297
+    O3  O     0.45257004    0.74350406    0.09886900
+    C3  C     0.50628692    0.56576895    0.12508699
+    O4  O     0.77196496    0.59933497    0.13695301
+    C4  C     0.22966596    0.28925603    0.14565902
+    H6  H     0.17865695    0.26427204    0.23572598
+    H7  H     0.28216706    0.13995701    0.12005599
+    N2  N    -0.04836907    0.24194395    0.08548998
+    H8  H    -0.00173315    0.27542498    0.00012998
+    H9  H    -0.12100105    0.36985499    0.11276704
+   H10  H    -0.23665715    0.04284791    0.09537804
+    O5  O     0.45260896    0.24365904    0.40113098
+    C5  C     0.50624797    0.06585307    0.37491700
+    O6  O     0.77189706    0.09938809    0.36303096
+    C6  C     0.22959213   -0.21075992    0.35435598
+   H11  H     0.17863104   -0.23587605    0.26428402
+   H12  H     0.28200899   -0.36007400    0.38002100
+    N3  N    -0.04855299   -0.25814301    0.41447896
+   H13  H    -0.00189804   -0.22455903    0.49982803
+   H14  H    -0.12102497   -0.13013302    0.38725297
+   H15  H    -0.23698602   -0.45727796    0.40463196
+    O7  O     0.54735302    0.25645799    0.90113397
+    C7  C     0.49361395    0.43415805    0.87489103
+    O8  O     0.22789404    0.40052608    0.86304004
+    C8  C     0.77031191    0.71072097    0.85432401
+   H16  H     0.82139404    0.73589100    0.76425196
+   H17  H     0.71796908    0.86011607    0.87992704
+    N4  N     1.04834908    0.75805197    0.91453401
+   H18  H     1.00185802    0.72452191    0.99991003
+   H19  H     1.12113612    0.63028306    0.88724503
+   H20  H     1.23664196    0.95713500    0.90459398

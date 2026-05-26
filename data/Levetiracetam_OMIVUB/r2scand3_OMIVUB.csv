@@ -1,0 +1,11 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.32269,    0.00000,       P 21,P21_TST_OMIVUB_0_1044_OMIVUB_form-I,form-I,OMIVUB
+   1.26635,    0.20046, P 1 1 21/b,        P21c_IST_OMIVUB_1_3642,none,none
+   1.28623,    0.22109, P 1 1 21/b,         P21c_GIT_OMIVUB_1_595,none,none
+   1.26914,    0.37743,       Pcab,        Pbca_ISS_OMIVUB_1_1283,none,none
+   1.29575,    0.38013, P 21/c 1 1,        P21c_STI_OMIVUB_0_2025,none,none
+   1.27884,    0.61102, P 1 1 21/a,        P21c_IST_OMIVUB_0_1104,none,none
+   1.28624,    0.69171, P 1 1 21/b,        P21c_ITS_OMIVUB_0_2285,none,none
+   1.26252,    0.80594,        C c,Cc_GT_OMIVUB_1_727_conventional,none,none
+   1.27945,    0.90342, P 1 21/n 1,         P21c_ITS_OMIVUB_0_903,none,none
+   1.24456,    0.95307,       Pcab,        Pbca_ISS_OMIVUB_1_1195,none,none

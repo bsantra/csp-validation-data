@@ -1,0 +1,11 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.84120,    0.00000,        P 1,P1_TTT_QQQAUG_5_207_QQQAUG04/QQQAUG17_form-I/form-II,form-I/form-II,QQQAUG04/QQQAUG17
+   1.83536,    0.10876,     P 21/c,         P21c_IST_QQQAUG_3_838,none,none
+   1.87359,    0.41366, P 21 21 21,       P212121_SS_QQQAUG_2_246,none,none
+   1.83930,    0.96609,      C 2/c,C2c_IST_QQQAUG_2_634_conventional,none,none
+   1.88660,    1.05661,       P -1,         P-1_TITT_QQQAUG_5_234,none,none
+   1.85667,    1.10671,        C c,Cc_TGG_QQQAUG_1_59_conventional,none,none
+   1.75499,    1.13864,     P 21/c,         P21c_TSI_QQQAUG_3_776,none,none
+   1.79795,    1.27853,     P 21/c,         P21c_STI_QQQAUG_1_181,none,none
+   1.84235,    1.62102,     P 21/c,         P21c_SIT_QQQAUG_3_852,none,none
+   1.77897,    1.72123, P 21 21 21,       P212121_SS_QQQAUG_4_132,none,none

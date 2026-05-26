@@ -1,0 +1,46 @@
+# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1
+data_r2scand3_AXOSOW_06
+
+_symmetry_space_group_name_H-M   "P c"
+_cell_length_a   3.987200
+_cell_length_b   5.282455
+_cell_length_c   7.843340
+_cell_angle_alpha   90.0000
+_cell_angle_beta   99.3016
+_cell_angle_gamma   90.0000
+_cell_formula_units_Z   2
+
+_csp_NAME_EXP_FORM   none
+_csp_CSD_REFCODE   none
+_csp_title   "Pc_GT_AXOSOW01_0_89"
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+    C1  C     0.70341706    0.93177502    0.25424301
+    C2  C     0.95626888    0.88574396    0.38597395
+    C3  C     1.02896005    0.62546993    0.44259800
+    O1  O     1.25331307    0.56134596    0.56142606
+    H1  H     0.85972201    0.48057292    0.36884599
+    H2  H     0.55480500    0.77492599    0.18856597
+    H3  H     0.63239906    1.12267602    0.20765202
+    H4  H     1.11087104    1.03679001    0.45476499
+    C4  C     0.70341700    0.06822395    0.75424204
+    C5  C     0.95626890    0.11425596    0.88597402
+    C6  C     1.02895999    0.37452999    0.94259704
+    O2  O     1.25331305    0.43865396    1.06142600
+    H5  H     0.85972102    0.51942701    0.86884606
+    H6  H     0.55480502    0.22507393    0.68856604
+    H7  H     0.63239903   -0.12267591    0.70765196
+    H8  H     1.11087106   -0.03679085    0.95476506

@@ -1,0 +1,19 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.44148,    0.00000, P 1 1 21/b,        P21c_IST_INDMET_96_761,none,none
+   1.38340,    0.35767,       P -1,P-1_ITTT_INDMET_30_331_INDMET01_form-gamma,form-gamma,INDMET01
+   1.45674,    0.46912, P 21 21 21,      P212121_SS_INDMET_84_724,none,none
+   1.42034,    0.61670,      C 2/c,C2c_IST_INDMET_31_3822_conventional,none,none
+   1.42340,    0.62711, P 1 1 21/a,       P21c_IST_INDMET_39_6044,none,none
+   1.45397,    0.68348, P 21/b 1 1,       P21c_IST_INDMET_84_2891,none,none
+   1.45431,    0.75276,       P -1,       P-1_ITTT_INDMET_69_1797,none,none
+   1.42999,    0.89861, P 21/b 1 1,       P21c_IST_INDMET_84_2976,none,none
+   1.41061,    1.16831, P 21/c 1 1,       P21c_SIT_INDMET_84_3106,none,none
+   1.40975,    1.24774,       P -1,       P-1_ITTT_INDMET_78_3395,none,none
+   1.38618,    1.34928, P 1 1 21/n,        P21c_IST_INDMET_37_823,none,none
+   1.45501,    1.45918, P 1 21/n 1,       P21c_TSI_INDMET_90_1020,none,none
+   1.41210,    1.50723, P 21/n 1 1,        P21c_STI_INDMET_41_372,none,none
+   1.44761,    1.58087, P 1 21/n 1,       P21c_TSI_INDMET_90_2410,none,none
+   1.40373,    1.84467, P 1 1 21/b,        P21c_GIT_INDMET_68_106,none,none
+   1.41052,    2.00496, P 21/n 1 1,       P21c_SIT_INDMET_69_1800,none,none
+   1.44423,    2.01868, P 21/c 1 1,        P21c_IST_INDMET_85_300,none,none
+   1.39358,    2.05903, P 1 1 21/a,        P21c_GIT_INDMET_40_262,none,none

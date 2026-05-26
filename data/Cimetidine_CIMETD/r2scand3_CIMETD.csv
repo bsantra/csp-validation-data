@@ -1,0 +1,20 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.36514,    0.00000,      C 2/c,C2c_I2T_CIMETD_115_3028_conventional,none,none
+   1.33421,    0.16167, P 1 1 21/b,P21c_TIG_CIMETD_88_2478_CIMETD_form-A,form-A,CIMETD
+   1.34420,    0.58493, P 1 1 21/n,      P21c_TIG_CIMETD_115_1041,none,none
+   1.26429,    1.13785, P 1 1 21/b,        P21c_TSI_CIMETD_42_448,none,none
+   1.35547,    1.17866,       P -1,        P-1_ITTT_CIMETD_41_565,none,none
+   1.32525,    1.19094,      C 2/c,C2c_IST_CIMETD_92_2103_conventional,none,none
+   1.39433,    1.65155,       P -1,       P-1_ITTT_CIMETD_12_1893,none,none
+   1.31353,    1.82371,       P -1,      P-1_TITT_CIMETD_115_1009,none,none
+   1.34355,    2.05323, P 1 21/n 1,       P21c_SIT_CIMETD_40_1644,none,none
+   1.32554,    2.06614,       P -1,      P-1_ITTT_CIMETD_252_5928,none,none
+   1.30166,    2.06711,       P -1,       P-1_TITT_CIMETD_115_661,none,none
+   1.31871,    2.13953,      C 2/c,C2c_IST_CIMETD_28_1541_conventional,none,none
+   1.34740,    2.16386, P 1 1 21/n,       P21c_IST_CIMETD_47_1086,none,none
+   1.25789,    2.27684,       Pcab,        Pbca_ISS_CIMETD_42_298,none,none
+   1.34469,    2.50876,      C 2/c,C2c_IST_CIMETD_115_3270_conventional,none,none
+   1.30872,    2.55774, P 21/c 1 1,        P21c_IST_CIMETD_47_319,none,none
+   1.26483,    2.82832,      P21cn,        Pna21_SG_CIMETD_115_24,none,none
+   1.29601,    2.96856, P 1 21/n 1,       P21c_STI_CIMETD_263_216,none,none
+   1.25912,    2.96860,       P -1,       P-1_ITTT_CIMETD_42_3316,none,none

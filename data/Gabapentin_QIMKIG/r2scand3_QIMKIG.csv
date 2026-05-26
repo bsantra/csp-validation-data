@@ -1,0 +1,30 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.25394,    0.00000,     P 21/c,P21c_TIS_QIMKIG_102_7083_QIMKIG_form-alpha,form-alpha,QIMKIG
+   1.22018,    0.49353,      C 2/c,C2c_SI2T_QIMKIG_5_40744_QIMKIG03_form-beta_conventional,form-beta,QIMKIG03
+   1.23272,    1.04431, P 1 1 21/n,       P21c_TIG_QIMKIG_221_663,none,none
+   1.19020,    1.04877,       P -1,      P-1_ITTT_QIMKIG_105_2394,none,none
+   1.22424,    1.14465, P 21/c 1 1,       P21c_TIG_QIMKIG_93_6889,none,none
+   1.20235,    1.17579, P 21/b 1 1,        P21c_STI_QIMKIG_7_1906,none,none
+   1.21798,    1.42196, P 21/c 1 1,        P21c_TIS_QIMKIG_0_5712,none,none
+   1.19024,    1.43737, P 21/b 1 1,          P21c_IST_QIMKIG_5_41,none,none
+   1.22069,    1.47156, P 1 21/n 1,      P21c_TIS_QIMKIG_114_2614,none,none
+   1.24126,    1.47268, P 21/b 1 1,P21c_IST_QIMKIG_9_1286_QIMKIG04_form-gamma,form-gamma,QIMKIG04
+   1.21336,    1.52775,       P -1,      P-1_TITT_QIMKIG_105_2345,none,none
+   1.25439,    1.55515, P 21/b 1 1,       P21c_SIT_QIMKIG_93_5438,none,none
+   1.23883,    1.56470,       Pcab,         Pbca_GIS_QIMKIG_6_624,none,none
+   1.22334,    1.58829,      C 2/c,C2c_SI2T_QIMKIG_96_17722_conventional,none,none
+   1.20029,    1.60312, P 21/b 1 1,        P21c_SIT_QIMKIG_3_4719,none,none
+   1.23022,    1.60710,      C 2/c,C2c_SI2T_QIMKIG_13_4788_conventional,none,none
+   1.23740,    1.64624,       P -1,       P-1_TITT_QIMKIG_50_8787,none,none
+   1.22451,    1.69672,       P -1,       P-1_TITT_QIMKIG_13_4381,none,none
+   1.22009,    1.74206,       P -1,        P-1_TITT_QIMKIG_7_4885,none,none
+   1.23224,    1.77101, P 1 1 21/n,        P21c_IST_QIMKIG_43_530,none,none
+   1.22385,    1.81599,    P b c a,        Pbca_ISS_QIMKIG_65_785,none,none
+   1.23790,    1.94578,   P 21 1 1,         P21_TST_QIMKIG_78_594,none,none
+   1.22782,    1.95397,       P -1,       P-1_ITTT_QIMKIG_96_1407,none,none
+   1.20456,    2.00196, P 21/c 1 1,        P21c_TIS_QIMKIG_6_1747,none,none
+   1.22382,    2.09368, P 1 1 21/n,       P21c_TIG_QIMKIG_51_3200,none,none
+   1.22779,    2.10827,      C 2/c,C2c_SI2T_QIMKIG_13_8422_conventional,none,none
+   1.18911,    2.13804, P 21/c 1 1,        P21c_TIS_QIMKIG_7_5529,none,none
+   1.22895,    2.13959, P 1 21/a 1,       P21c_IST_QIMKIG_78_3739,none,none
+   1.22479,    2.26856, P 21/b 1 1,       P21c_SIT_QIMKIG_92_1279,none,none

@@ -1,0 +1,43 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.31452,    0.00000,        P 1,P21c_TIG_DORDUM_332_318_DORDUM06_form-IX,form-IX,DORDUM06
+   1.39898,    0.04565,        P 1,     P212121_SS_DORDUM_553_220,none,none
+   1.36014,    0.07286,        P 1,         P21_STT_DORDUM_11_650,none,none
+   1.35713,    0.14807,      C 2/c,C2c_SIT_DORDUM_436_6048_DORDUM07_form-X_conventional,form-X,DORDUM07
+   1.38136,    0.26779,        P 1,       P21c_GIT_DORDUM_379_149,none,none
+   1.36096,    0.54400,        P 1,     P212121_TSS_DORDUM_11_229,none,none
+   1.36229,    0.61048,        C c,Cc_GT_DORDUM_579_160_conventional,none,none
+   1.38139,    0.68006,        P 1,      P21c_STI_DORDUM_645_1971,none,none
+   1.37420,    0.69185,        P 1,       P-1_TITT_DORDUM_106_957,none,none
+   1.36584,    0.89387,        P 1,P-1_ITTT_DORDUM_521_54_DORDUM05_form-VIII,form-VIII,DORDUM05
+   1.32786,    0.94558,      C 2/c,C2c_SIT_DORDUM_727_1846_conventional,none,none
+   1.39228,    0.99003,        P 1,      P21c_IST_DORDUM_436_1395,none,none
+   1.38994,    1.02331,        P 1,      P21c_IST_DORDUM_375_2592,none,none
+   1.37248,    1.03913,        P 1,      P21c_SIT_DORDUM_562_4619,none,none
+   1.37728,    1.17026,        P 1,      P21c_TIG_DORDUM_336_5092,none,none
+   1.39229,    1.26901,        P 1,     P212121_SS_DORDUM_553_459,none,none
+   1.37876,    1.29106,        P 1,       P21_STT_DORDUM_645_1524,none,none
+   1.26812,    1.35707,      C 2/c,C2c_IST_DORDUM_632_536_conventional,none,none
+   1.29788,    1.40393,        P 1,P21c_TIG_DORDUM_726_640_DORDUM04_form-VI,form-VI,DORDUM04
+   1.29706,    1.43583,      C 2/c,C2c_IST_DORDUM_401_3186_conventional,none,none
+   1.36099,    1.58479,        P 1,P21c_ITS_DORDUM_630_1107_DORDUM03_form-V,form-V,DORDUM03
+   1.37248,    1.64700,        P 1,       P-1_ITTT_DORDUM_424_353,none,none
+   1.32910,    1.65484,        P 1,      P-1_ITTT_DORDUM_553_3507,none,none
+   1.33403,    1.66029,        P 1,       P-1_TITT_DORDUM_748_326,none,none
+   1.30562,    1.67803,        P 1,        P-1_ITTT_DORDUM_45_992,none,none
+   1.31974,    1.69701,        P 1,         P-1_ITTT_DORDUM_42_93,none,none
+   1.36952,    1.71881,        P 1,      P21c_SIT_DORDUM_436_1766,none,none
+   1.22613,    1.85264,        P 1,P-1_ITTT_DORDUM_90_1282_DORDUM_form-II,form-II,DORDUM
+   1.26499,    1.86258,        P 1,       P21c_IST_DORDUM_735_152,none,none
+   1.37580,    1.87895,        P 1,       P-1_TITT_DORDUM_299_461,none,none
+   1.37079,    1.89909,        P 1,         P-1_TITT_DORDUM_625_8,none,none
+   1.30099,    1.90695,        P 1,       P21c_TIG_DORDUM_632_152,none,none
+   1.35546,    1.93648,        P 1,        P21c_IST_DORDUM_78_638,none,none
+   1.31778,    1.95113,        P 1,        P-1_ITTT_DORDUM_423_56,none,none
+   1.29369,    1.99566,        P 1,P-1_TITT_DORDUM_433_184_DORDUM01_form-III,form-III,DORDUM01
+   1.35632,    2.07219,        P 1,       P-1_ITTT_DORDUM_446_897,none,none
+   1.23787,    2.09194,        P 1,       P21c_IST_DORDUM_10_2969,none,none
+   1.38234,    2.20654,        P 1,       P-1_ITTT_DORDUM_549_687,none,none
+   1.31721,    2.41859,        P 1,       P21c_IST_DORDUM_74_1986,none,none
+   1.33303,    2.49137,        P 1,          Pc_TGT_DORDUM_640_51,none,none
+   1.31946,    2.69239,        P 1,      P21c_IST_DORDUM_405_4277,none,none
+   1.33218,    2.77080,        P 1,      P21c_IST_DORDUM_449_1993,none,none

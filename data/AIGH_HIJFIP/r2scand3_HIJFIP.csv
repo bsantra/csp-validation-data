@@ -1,0 +1,5 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.40584,    0.00000, P 21/c 1 1,P21c_GIT_HIJFIP_0_913_HIJFIP_form-monoclinic,form-monoclinic,HIJFIP
+   1.41696,    0.95918,       P -1,         P-1_ITTT_HIJFIP_0_407,none,none
+   1.39518,    1.41767,       P -1,P-1_TITT_HIJFIP_48_83_HIJFIP01_form-triclinic,form-triclinic,HIJFIP01
+   1.40880,    2.17315,      C 2/c,C2c_SI2T_HIJFIP_39_10212_conventional,none,none

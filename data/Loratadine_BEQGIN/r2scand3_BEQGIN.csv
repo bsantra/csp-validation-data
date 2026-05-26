@@ -1,0 +1,51 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.34488,    0.00000,      C 2/c,C2c_SI2T_BEQGIN_86_14444_conventional,none,none
+   1.33133,    0.58194,      C 2/c,C2c_SI2T_BEQGIN_84_18427_conventional,none,none
+   1.33014,    0.73620,       P -1,       P-1_TITT_BEQGIN_107_529,none,none
+   1.33830,    0.76560,      C 2/c,C2c_SI2T_BEQGIN_86_11094_BEQGIN07D1_form-II-D1_conventional,form-II-D1,BEQGIN07D1
+   1.33774,    0.80233,     P 21/c,      P21c_SIT_BEQGIN_176_4063,none,none
+   1.33134,    0.80932, P 21/c 1 1,       P21c_TIS_BEQGIN_38_9482,none,none
+   1.33204,    0.81824,       P -1,         P-1_TITT_BEQGIN_20_72,none,none
+   1.31745,    0.82680, P 21/n 1 1,      P21c_STI_BEQGIN_108_1635,none,none
+   1.32478,    0.84734,      C 2/c,C2c_SI2T_BEQGIN_306_3390_BEQGIN06D1_form-I-D1_conventional,form-I-D1,BEQGIN06D1
+   1.31862,    0.86451,      C 2/c,C2c_SI2T_BEQGIN_44_27405_conventional,none,none
+   1.31588,    0.87915, P 21/b 1 1,      P21c_IST_BEQGIN_81_24730,none,none
+   1.33334,    0.92497,     P 21/c,      P21c_STI_BEQGIN_176_1086,none,none
+   1.34301,    0.93650,       P 21,        P21_TST_BEQGIN_36_1805,none,none
+   1.33049,    1.08392,       Pbna,       Pbcn_G2I_BEQGIN_160_246,none,none
+   1.33684,    1.14604,       P -1,      P-1_TITT_BEQGIN_241_2942,none,none
+   1.30988,    1.16839, P 21/b 1 1,       P21c_IST_BEQGIN_20_6972,none,none
+   1.31580,    1.21792,     P 21/c,       P21c_STI_BEQGIN_15_1142,none,none
+   1.35974,    1.27848,      C 2/c,C2c_IST_BEQGIN_43_3344_conventional,none,none
+   1.31528,    1.28413,     P 21/c,       P21c_IST_BEQGIN_68_5542,none,none
+   1.33299,    1.29405, P 1 21/n 1,       P21c_TIG_BEQGIN_85_9410,none,none
+   1.31726,    1.29973,      C 2/c,C2c_SI2T_BEQGIN_41_23435_conventional,none,none
+   1.32128,    1.30576, P 21/n 1 1,       P21c_TIS_BEQGIN_20_7462,none,none
+   1.33299,    1.30643, P 1 1 21/n,       P21c_TIG_BEQGIN_46_5924,none,none
+   1.32371,    1.32336,       P -1,        P-1_TITT_BEQGIN_1_1142,none,none
+   1.32354,    1.32965,      C 2/c,C2c_SI2T_BEQGIN_85_4053_conventional,none,none
+   1.33068,    1.33336, P 21/n 1 1,      P21c_SIT_BEQGIN_283_3154,none,none
+   1.33270,    1.35700, P 1 21/n 1,       P21c_TSI_BEQGIN_152_344,none,none
+   1.31839,    1.35842,    P b c a,        Pbca_GIS_BEQGIN_96_106,none,none
+   1.32422,    1.36575,      P21ca,       Pca21_CST_BEQGIN_119_89,none,none
+   1.32638,    1.38325,      C 2/c,C2c_SI2T_BEQGIN_88_6783_conventional,none,none
+   1.33567,    1.39535,     P 21/c,     P21c_TIG_BEQGIN_151_12381,none,none
+   1.32405,    1.40322,      C 2/c,C2c_SI2T_BEQGIN_41_32151_conventional,none,none
+   1.32492,    1.43087, P 21/b 1 1,        P21c_GIT_BEQGIN_93_674,none,none
+   1.33257,    1.43941,     P 21/c,      P21c_TIG_BEQGIN_34_13115,none,none
+   1.32622,    1.44769, P 21/n 1 1,        P21c_STI_BEQGIN_57_255,none,none
+   1.33289,    1.45008,      C 2/c,C2c_SI2T_BEQGIN_156_28593_conventional,none,none
+   1.34759,    1.47650,      C 2/c,C2c_SI2T_BEQGIN_13_11900_BEQGIN06D2_form-I-D2_conventional,form-I-D2,BEQGIN06D2
+   1.33485,    1.52290,      C 2/c,C2c_SI2T_BEQGIN_165_49590_BEQGIN07D2_form-II-D2_conventional,form-II-D2,BEQGIN07D2
+   1.32406,    1.55277,    F d d 2,Fdd2_SG_BEQGIN_97_119_conventional,none,none
+   1.32677,    1.62150, P 21/n 1 1,       P21c_STI_BEQGIN_16_1966,none,none
+   1.32504,    1.62327,      C 2/c,C2c_IST_BEQGIN_41_204_conventional,none,none
+   1.31706,    1.62462,      C 2/c,C2c_SI2T_BEQGIN_81_9341_conventional,none,none
+   1.31784,    1.68500,      C 2/c,C2c_SI2T_BEQGIN_78_13197_conventional,none,none
+   1.32300,    1.79526, P 21/n 1 1,        P21c_STI_BEQGIN_42_929,none,none
+   1.31265,    1.82150, P 21/n 1 1,       P21c_STI_BEQGIN_99_1183,none,none
+   1.32490,    1.85910,        P 1,        C2_S22_BEQGIN_108_2042,none,none
+   1.31112,    1.88191, P 21/c 1 1,       P21c_IST_BEQGIN_87_6088,none,none
+   1.30080,    2.04238, P 21/n 1 1,      P21c_TIS_BEQGIN_329_6482,none,none
+   1.32156,    2.10103,    P b c a,          Pbca_GIS_BEQGIN_75_6,none,none
+   1.30819,    2.41958, P 21/c 1 1,       P21c_STI_BEQGIN_89_2174,none,none

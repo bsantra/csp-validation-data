@@ -1,0 +1,58 @@
+# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1
+data_r2scand3_VIPKIO_01
+
+_symmetry_space_group_name_H-M   "P 21/c"
+_cell_length_a   3.635325
+_cell_length_b   6.684621
+_cell_length_c   9.103981
+_cell_angle_alpha   89.9998
+_cell_angle_beta   99.2362
+_cell_angle_gamma   89.9995
+_cell_formula_units_Z   4
+
+_csp_NAME_EXP_FORM   form-alpha
+_csp_CSD_REFCODE   VIPKIO01
+_csp_title   "P21_TST_VIPKIO_58_694_VIPKIO01_form-alpha"
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+    H1  H     0.12670291    0.96455193    0.36311300
+    N1  N    -0.04732082    1.07169104    0.30567700
+    H2  H    -0.23960604    1.11129902    0.37333496
+    N2  N    -0.23295000    0.97198500    0.17941499
+    H3  H    -0.19338382    0.81604901    0.17816103
+    C1  C    -0.41367884    1.07054208    0.06232597
+    O1  O    -0.44975294    1.25652907    0.05122898
+    C2  C    -0.58630407    0.92947692   -0.06233298
+    O2  O    -0.55024896    0.74344595   -0.05122097
+    N3  N    -0.76708786    1.02800004   -0.17941499
+    H4  H    -0.80661603    1.18397508   -0.17816092
+    N4  N    -0.95268507    0.92831794   -0.30566999
+    H5  H    -0.76037995    0.88869096   -0.37335099
+    H6  H    -1.12668681    1.03544702   -0.36310399
+    H7  H     0.87330594    0.46455196    0.13689205
+    N5  N     1.04730885    0.57168096    0.19433195
+    H8  H     1.23961980    0.61130396    0.12665395
+    N6  N     1.23292189    0.47199797    0.32057804
+    H9  H     1.19338190    0.31603099    0.32184001
+    C3  C     1.41369097    0.57052104    0.43767096
+    O3  O     1.44975394    0.75655098    0.44877496
+    C4  C     1.58630705    0.42945604    0.56232501
+    O4  O     1.55025199    0.24347203    0.55122702
+    N7  N     1.76706710    0.52800500    0.67941804
+   H10  H     1.80662183    0.68396494    0.67816197
+    N8  N     1.95268593    0.42831901    0.80567103
+   H11  H     1.76038384    0.38869706    0.87334302
+   H12  H     2.12669799    0.53544606    0.86310904

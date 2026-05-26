@@ -1,0 +1,59 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.51122,    0.00000,      P21/c,          P21c_TIS_XXXI_17_529,none,none
+   1.52965,    0.13075,      P21/c,          P21c_STI_XXXI_4_2235,none,none
+   1.52447,    0.25643,      P21/c,P21c_IST_XXXI_16_2091_ZEHFUR02D0_form-A_maj,form-A_maj,ZEHFUR02D0
+   1.50293,    0.27434,        P 1,C2c_IST_XXXI_68_471_conventional,none,none
+   1.52817,    0.35882,      P21/c,P21c_IST_XXXI_14_4581_ZEHFUR02D1_form-A_min,form-A_min,ZEHFUR02D1
+   1.48160,    0.36632,      P21/c,         P21c_TIG_XXXI_16_3744,none,none
+   1.51277,    0.43267,      P21/c,          P21c_TSI_XXXI_84_535,none,none
+   1.51254,    0.55373,      P21/c,          P21c_IST_XXXI_9_6516,none,none
+   1.53259,    0.61196,        P21,            P21_TTS_XXXI_22_30,none,none
+   1.50698,    0.63325,    P212121,       P212121_TSS_XXXI_28_327,none,none
+   1.51169,    0.64751,      P21/c,         P21c_SIT_XXXI_11_3976,none,none
+   1.50458,    0.65461,      P21/c,          P21c_IST_XXXI_46_796,none,none
+   1.51570,    0.68905,      C 2/c,C2c_IST_XXXI_16_1197_conventional,none,none
+   1.48883,    0.69141,        P-1,         P-1_ITTT_XXXI_34_1957,none,none
+   1.49509,    0.74346,      P21/c,          P21c_GIT_XXXI_76_103,none,none
+   1.49616,    0.77703,      P21/c,          P21c_IST_XXXI_3_4133,none,none
+   1.50978,    0.79741,        P-1,         P-1_TITT_XXXI_78_2620,none,none
+   1.51685,    0.89068,      P21/c,         P21c_TIG_XXXI_16_3832,none,none
+   1.50802,    0.95416,        P-1,          P-1_TITT_XXXI_4_6106,none,none
+   1.47856,    0.95504,        P-1,         P-1_ITTT_XXXI_14_3934,none,none
+   1.51689,    1.01706,        P-1,         P-1_ITTT_XXXI_16_3272,none,none
+   1.47344,    1.07508,      P21/c,          P21c_IST_XXXI_6_4205,none,none
+   1.49608,    1.09271,      C 2/c,C2c_SI2T_XXXI_74_1480_conventional,none,none
+   1.47818,    1.11690,        P-1,         P-1_ITTT_XXXI_54_2805,none,none
+   1.45438,    1.20123,      P21/c,P21c_TIG_XXXI_34_1269_ZEHFUR00_form-B,form-B,ZEHFUR00
+   1.49687,    1.20676,      P21/c,          P21c_SIT_XXXI_66_703,none,none
+   1.49883,    1.20900,       Pbca,          Pbca_ISS_XXXI_16_765,none,none
+   1.50771,    1.28845,      P21/c,          P21c_IST_XXXI_4_2941,none,none
+   1.49818,    1.28906,        P-1,          P-1_ITTT_XXXI_76_219,none,none
+   1.48677,    1.28916,      P21/c,          P21c_STI_XXXI_16_778,none,none
+   1.44945,    1.31611,        P-1,          P-1_ITTT_XXXI_66_575,none,none
+   1.47267,    1.31933,       Pbca,          Pbca_ISS_XXXI_29_450,none,none
+   1.51541,    1.34377,        P-1,         P-1_TITT_XXXI_14_1261,none,none
+   1.49136,    1.36057,        P21,            P21_TTS_XXXI_5_419,none,none
+   1.48103,    1.40999,      P21/c,         P21c_IST_XXXI_47_1537,none,none
+   1.43685,    1.43793,        P-1,         P-1_TITT_XXXI_14_2648,none,none
+   1.45617,    1.45474,        P-1,          P-1_ITTT_XXXI_4_2384,none,none
+   1.49214,    1.46027,        P-1,         P-1_TITT_XXXI_16_1037,none,none
+   1.50674,    1.46169,      P21/c,         P21c_SIT_XXXI_23_2772,none,none
+   1.50443,    1.46640,        P-1,         P-1_ITTT_XXXI_78_3468,none,none
+   1.48392,    1.46867,      P21/c,         P21c_IST_XXXI_38_1755,none,none
+   1.47885,    1.50151,        P-1,           P-1_TITT_XXXI_46_31,none,none
+   1.47305,    1.54052,      P21/c,          P21c_TIG_XXXI_8_1508,none,none
+   1.51682,    1.55654,      P21/c,          P21c_IST_XXXI_14_189,none,none
+   1.45421,    1.57197,       Pbca,         Pbca_GTIS_XXXI_41_143,none,none
+   1.50960,    1.57722,      P21/c,         P21c_SIT_XXXI_52_5269,none,none
+   1.47190,    1.59771,        C c,Cc_TGG_XXXI_13_48_conventional,none,none
+   1.43926,    1.60520,       Pbca,          Pbca_ISS_XXXI_15_547,none,none
+   1.50497,    1.60617,    P212121,       P212121_TSS_XXXI_66_174,none,none
+   1.48995,    1.62018,      P21/c,         P21c_IST_XXXI_14_1537,none,none
+   1.47993,    1.63677,      P21/c,          P21c_IST_XXXI_4_2950,none,none
+   1.51582,    1.64017,      P21/c,          P21c_IST_XXXI_10_894,none,none
+   1.48109,    1.69250,      P21/c,         P21c_TIS_XXXI_28_1973,none,none
+   1.45045,    1.77190,      P21/c,          P21c_TIS_XXXI_36_608,none,none
+   1.49635,    1.78479,      Pna21,           Pna21_SG_XXXI_8_258,none,none
+   1.51682,    1.82215,      C 2/c,C2c_SI2T_XXXI_66_557_conventional,none,none
+   1.47613,    1.83959,    F d d 2,Fdd2_SG_XXXI_77_3_conventional,none,none
+   1.47502,    1.90717,        P-1,         P-1_ITTT_XXXI_34_7305,none,none

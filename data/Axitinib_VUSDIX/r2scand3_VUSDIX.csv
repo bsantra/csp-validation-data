@@ -1,0 +1,25 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.41863,    0.00000,      C 2/c,C2c_SI2T_VUSDIX_669_574_conventional,none,none
+   1.37207,    0.12263,       P -1,P-1_TITT_VUSDIX_212_1628_VUSDIX03_form-VI,form-VI,VUSDIX03
+   1.42422,    0.22612,     P 21/c,P21c_TIG_VUSDIX_750_3241_VUSDIX_form-XXV,form-XXV,VUSDIX
+   1.40449,    0.72392, P 21/c 1 1,P21c_SIT_VUSDIX_28_4328_VUSDIX04_form-XLI,form-XLI,VUSDIX04
+   1.41594,    0.73906, P 21/n 1 1,      P21c_TIS_VUSDIX_750_2046,none,none
+   1.36907,    0.92380,      C 2/c,C2c_IST_VUSDIX_263_6420_conventional,none,none
+   1.38592,    1.16466, P 1 21/n 1,      P21c_TIG_VUSDIX_773_2005,none,none
+   1.36227,    1.30418,      C 2/c,C2c_I2T_VUSDIX_213_277_conventional,none,none
+   1.42209,    1.36322,      C 2/c,C2c_SI2T_VUSDIX_1295_146_conventional,none,none
+   1.41536,    1.38582,       P -1,       P-1_TITT_VUSDIX_951_480,none,none
+   1.36133,    1.46642, P 1 21/n 1,        P21c_TSI_VUSDIX_512_30,none,none
+   1.34924,    1.48925,     P 21/c,         P21c_TIG_VUSDIX_8_489,none,none
+   1.38425,    1.58287,       P -1,      P-1_ITTT_VUSDIX_185_1016,none,none
+   1.40709,    1.61954,       P -1,      P-1_ITTT_VUSDIX_1295_131,none,none
+   1.34832,    2.24843, P 21 21 21,      P212121_TSS_VUSDIX_512_3,none,none
+   1.38831,    2.37554,       P -1,      P-1_ITTT_VUSDIX_192_6221,none,none
+   1.35800,    2.42506,      C 2/c,C2c_IST_VUSDIX_1186_6047_conventional,none,none
+   1.33905,    2.45665,       P 21,         P21_TST_VUSDIX_673_35,none,none
+   1.32054,    2.45720,       P 21,        P21_TST_VUSDIX_966_160,none,none
+   1.38636,    2.61995,      C 2/c,C2c_IST_VUSDIX_1295_139_conventional,none,none
+   1.36795,    2.65327,       P -1,P-1_ITTT_VUSDIX_980_201_VUSDIX06_form-I,form-I,VUSDIX06
+   1.34438,    2.66510,       P -1,       P-1_ITTT_VUSDIX_266_782,none,none
+   1.37061,    2.86025, P 21/n 1 1,        P21c_IST_VUSDIX_184_51,none,none
+   1.35588,    2.88690,      C 2/c,C2c_I2T_VUSDIX_671_166_conventional,none,none

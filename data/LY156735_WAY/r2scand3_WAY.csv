@@ -1,0 +1,29 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.36931,    0.00000,        P 1,        P21c_IST_WAYDAD_41_849,none,none
+   1.36859,    0.35848,        P 1,P212121_SS_WAYDAD_1_734_WAYCUW_form-II-S-MA,form-II-S-MA,WAYCUW
+   1.33931,    0.68985,        P 1,        P21c_TIG_WAYDAD_3_4843,none,none
+   1.30021,    0.94474,        P 1,       P21c_IST_WAYDAD_25_1067,none,none
+   1.34726,    1.04334,        P 1,       Pna21_SSG_WAYDAD_3_1533,none,none
+   1.31574,    1.09672,        P 1,P21c_TIG_WAYDAD_78_6242_WAYCOQ_form-I-RS-MA,form-I-RS-MA,WAYCOQ
+   1.30453,    1.31054,        P 1,         P21c_IST_WAYDAD_25_14,none,none
+   1.33253,    1.31351,        P 1,P212121_SS_WAYDAD_47_510_WAYDAD_form-I-R-MA,form-I-R-MA,WAYDAD
+   1.30607,    1.46633,        P 1,         P21c_TIG_WAYDAD_41_95,none,none
+   1.37607,    1.60426,        C c,Cc_GT_WAYDAD_331_147_conventional,none,none
+   1.31077,    1.69136,        P 1,      P21c_IST_WAYDAD_104_2353,none,none
+   1.34213,    1.80701,        P 1,        P21c_SIT_WAYDAD_92_501,none,none
+   1.34143,    1.87703,        P 1,         P21c_TIS_WAYDAD_2_429,none,none
+   1.34015,    1.95702,        P 1,        P21c_IST_WAYDAD_25_144,none,none
+   1.30610,    2.01369,    P b c a,        Pbca_ISS_WAYDAD_25_278,none,none
+   1.33978,    2.05599,        P 1,      P21c_TIG_WAYDAD_120_1143,none,none
+   1.37206,    2.06520,        P 1,      P21c_TIG_WAYDAD_134_2053,none,none
+   1.33704,    2.12520,        P 1,         C2_S22_WAYDAD_36_1650,none,none
+   1.35868,    2.14383,        P 1,       P21c_TIS_WAYDAD_34_1939,none,none
+   1.35975,    2.20122,        P 1,       Pna21_SSG_WAYDAD_1_4437,none,none
+   1.34558,    2.23261,        P 1,        P21c_STI_WAYDAD_36_232,none,none
+   1.28992,    2.31523,        P 1,        P21c_IST_WAYDAD_36_796,none,none
+   1.33587,    2.37742,        P 1,     Pna21_SSG_WAYDAD_314_1053,none,none
+   1.33341,    2.47541,        P 1,       P212121_SS_WAYDAD_48_90,none,none
+   1.28598,    2.50569,        P 1,       P21c_STI_WAYDAD_11_1219,none,none
+   1.28688,    2.72933,        P 1,         P21c_IST_WAYDAD_2_998,none,none
+   1.32644,    2.75688,        P 1,       P21c_TIG_WAYDAD_38_2590,none,none
+   1.31159,    2.78053,    P b c a,         Pbca_ISS_WAYDAD_2_387,none,none

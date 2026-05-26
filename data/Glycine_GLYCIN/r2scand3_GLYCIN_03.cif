@@ -1,0 +1,50 @@
+# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1
+data_r2scand3_GLYCIN_03
+
+_symmetry_space_group_name_H-M   "P 1"
+_cell_length_a   5.072042
+_cell_length_b   5.402135
+_cell_length_c   6.204285
+_cell_angle_alpha   89.9994
+_cell_angle_beta   89.9999
+_cell_angle_gamma   112.7236
+_cell_formula_units_Z   2
+
+_csp_NAME_EXP_FORM   form-beta
+_csp_CSD_REFCODE   GLYCIN25
+_csp_title   "P21_md_dedup_zwitterions-173_optimized_GLYCIN25_form-beta"
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+    O1  O     0.09270512    0.40683507    0.05479906
+    C1  C    -0.13822696    0.44103599    0.02941403
+    O2  O    -0.38292590    0.25509009    0.00325307
+    C2  C    -0.12387890    0.72835791    0.04272499
+    H1  H     0.07807705    0.87113381   -0.02413509
+    H2  H    -0.13108591    0.77500510    0.21528493
+    N1  N    -0.36474813    0.76538699   -0.06675000
+    H3  H    -0.35621511    0.74012099   -0.23241003
+    H4  H    -0.36029316    0.96332487   -0.03762303
+    H5  H    -0.56576902    0.62597685   -0.01255600
+    O3  O     0.90728402    0.59315710    0.55480803
+    C3  C     1.13821794    0.55896094    0.52941606
+    O4  O     1.38291290    0.74489698    0.50326494
+    C4  C     1.12389403    0.27164605    0.54272992
+    H6  H     0.92192604    0.12886390    0.47586903
+    H7  H     1.13110198    0.22499999    0.71528793
+    N2  N     1.36474895    0.23461399    0.43324704
+    H8  H     1.35620701    0.25988207    0.26758507
+    H9  H     1.36029389    0.03667806    0.46236708
+   H10  H     1.56577783    0.37403196    0.48744603

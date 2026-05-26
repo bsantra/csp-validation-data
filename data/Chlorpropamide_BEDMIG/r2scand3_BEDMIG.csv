@@ -1,0 +1,29 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.48169,    0.00000, P 1 21/a 1,        P21c_GIT_BEDMIG_20_238,none,none
+   1.46434,    0.00952,       P 21,P21_TST_BEDMIG_72_48_BEDMIG02_form-gamma,form-gamma,BEDMIG02
+   1.47804,    0.03810,    P b c a,Pbca_ISS_BEDMIG_40_129_BEDMIG03_form-delta,form-delta,BEDMIG03
+   1.45715,    0.05892, P 21/b 1 1,       P21c_IST_BEDMIG_73_1162,none,none
+   1.47739,    0.10657,       P 21,          P21_STT_BEDMIG_6_226,none,none
+   1.46862,    0.20485, P 21 21 21,P212121_SS_BEDMIG_6_34_BEDMIG09_form-alpha,form-alpha,BEDMIG09
+   1.47099,    0.34703,      Pc21n,Pna21_SG_BEDMIG_4_44_BEDMIG05_form-epsilon-prime,form-epsilon-prime,BEDMIG05
+   1.47778,    0.39402, P 1 21/n 1,         P21c_STI_BEDMIG_6_295,none,none
+   1.50634,    0.42587,       P -1,       P-1_ITTT_BEDMIG_52_2111,none,none
+   1.42889,    0.48599, P 21 21 21,      P212121_TSS_BEDMIG_72_11,none,none
+   1.40543,    0.49133, P 1 1 21/a,        P21c_GIT_BEDMIG_23_211,none,none
+   1.43251,    0.58455, P 21 21 21,        P212121_SS_BEDMIG_3_95,none,none
+   1.48047,    0.62362,      C 2/c,C2c_SIT_BEDMIG_6_534_conventional,none,none
+   1.48380,    0.72633,       P 21,         P21_TST_BEDMIG_27_245,none,none
+   1.47795,    0.78375,      C 2/c,C2c_IST_BEDMIG_72_117_conventional,none,none
+   1.43365,    0.94965,       Pcan,Pbcn_G2I_BEDMIG_12_19_BEDMIG01_form-beta,form-beta,BEDMIG01
+   1.53908,    0.96762, P 21/b 1 1,        P21c_IST_BEDMIG_22_187,none,none
+   1.49816,    1.04931, P 21/b 1 1,        P21c_SIT_BEDMIG_40_399,none,none
+   1.42775,    1.05460,      Pc21n,Pna21_SG_BEDMIG_11_62_BEDMIG06_form-epsilon,form-epsilon,BEDMIG06
+   1.48734,    1.05466,      C 2/c,C2c_SIT_BEDMIG_52_1433_conventional,none,none
+   1.50354,    1.08313, P 1 21/a 1,         P21c_GIT_BEDMIG_36_53,none,none
+   1.46817,    1.17348,       Pcab,         Pbca_GIS_BEDMIG_21_81,none,none
+   1.40823,    1.19722, P 21/n 1 1,       P21c_SIT_BEDMIG_18_1221,none,none
+   1.48896,    1.21171,       P -1,       P-1_TITT_BEDMIG_14_1013,none,none
+   1.46348,    1.23887,    P b c a,          Pbca_ISS_BEDMIG_7_87,none,none
+   1.46548,    1.28645,      C 2/c,C2c_IST_BEDMIG_47_828_conventional,none,none
+   1.44022,    1.29908,      C 2/c,C2c_SI2T_BEDMIG_18_1086_conventional,none,none
+   1.44274,    1.33831,      C 2/c,C2c_SI2T_BEDMIG_16_701_conventional,none,none

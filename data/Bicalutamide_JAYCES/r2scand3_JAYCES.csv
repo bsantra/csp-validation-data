@@ -1,0 +1,30 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.57942,    0.00000,       P -1,        P-1_ITTT_JAYCES_2_2514,none,none
+   1.57556,    0.05975,     P 21/c,        P21c_IST_JAYCES_0_1334,none,none
+   1.55543,    0.66790, P 1 21/a 1,P21c_IST_JAYCES_39_1305_JAYCES00_form-I,form-I,JAYCES00
+   1.54509,    0.87803,       P -1,P-1_TITT_JAYCES_207_349_JAYCES02_form-II,form-II,JAYCES02
+   1.55700,    0.94639,     P 21/c,        P21c_IST_JAYCES_0_4979,none,none
+   1.56905,    0.99984, P 21/c 1 1,        P21c_STI_JAYCES_6_2195,none,none
+   1.60048,    1.10292,      C 2/c,C2c_TI2T_JAYCES_6_399_conventional,none,none
+   1.55646,    1.24417,       P -1,         P-1_ITTT_JAYCES_8_147,none,none
+   1.57530,    1.27023, P 21/c 1 1,        P21c_IST_JAYCES_6_4286,none,none
+   1.55912,    1.29207,     P 21/c,      P21c_TSI_JAYCES_110_1611,none,none
+   1.54959,    1.37533, P 1 1 21/n,        P21c_TIG_JAYCES_0_3684,none,none
+   1.53956,    1.45345,       P -1,         P-1_TITT_JAYCES_7_468,none,none
+   1.57604,    1.47887, P 1 1 21/n,        P21c_IST_JAYCES_8_1130,none,none
+   1.56732,    1.54613, P 1 21/n 1,        P21c_TSI_JAYCES_42_673,none,none
+   1.55394,    1.58750, P 21/n 1 1,      P21c_IST_JAYCES_194_2164,none,none
+   1.60335,    1.59169,       P -1,         P-1_TITT_JAYCES_3_933,none,none
+   1.53579,    1.60337,    P b c a,        Pbca_ISS_JAYCES_39_840,none,none
+   1.50243,    1.62285, P 1 1 21/n,      P21c_TIG_JAYCES_110_1169,none,none
+   1.58621,    1.64085, P 21/n 1 1,       P21c_STI_JAYCES_201_243,none,none
+   1.54523,    1.65888,    P b c a,        Pbca_ISS_JAYCES_1_2071,none,none
+   1.57755,    1.67078,       P -1,        P-1_ITTT_JAYCES_3_1198,none,none
+   1.55070,    1.69437,       P -1,        P-1_TITT_JAYCES_1_2182,none,none
+   1.56492,    1.74234, P 1 21/n 1,         P21c_TIG_JAYCES_8_572,none,none
+   1.52762,    1.83885, P 21/c 1 1,        P21c_IST_JAYCES_1_5099,none,none
+   1.54285,    1.87392,       P -1,         P-1_TITT_JAYCES_1_514,none,none
+   1.56295,    1.94685,      C 2/c,C2c_SI2T_JAYCES_125_3126_conventional,none,none
+   1.50671,    1.96923,      P21cn,     Pna21_SSG_JAYCES_110_2757,none,none
+   1.57078,    2.07397,      C 2/c,C2c_SI2T_JAYCES_3_11187_conventional,none,none
+   1.56437,    2.13301,      C 2/c,C2c_SI2T_JAYCES_3_10258_conventional,none,none

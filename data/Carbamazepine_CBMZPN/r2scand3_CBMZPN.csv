@@ -1,0 +1,31 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.37952,    0.00000, P 1 21/n 1,P21c_IST_CBMZPN_0_470_CBMZPN23_form-III,form-III,CBMZPN23
+   1.31481,    0.98191,      C 2/c,C2c_IST_CBMZPN_0_3311_CBMZPN12_form-IV_conventional,form-IV,CBMZPN12
+   1.33396,    1.17858, P 21/c 1 1,        P21c_IST_CBMZPN_0_3463,none,none
+   1.31634,    1.35436,       P -1,          P-1_ITTT_CBMZPN_0_95,none,none
+   1.33377,    1.42094,       P -1,         P-1_ITTT_CBMZPN_0_704,none,none
+   1.29554,    1.73402, P 21/n 1 1,        P21c_IST_CBMZPN_0_4327,none,none
+   1.32411,    1.74601,     P22121,       P21212_TS2_CBMZPN_0_741,none,none
+   1.32778,    1.76215,    P b c a,Pbca_SIS_CBMZPN_0_249_CBMZPN16_form-V,form-V,CBMZPN16
+   1.34820,    1.76901,  P 2/n 1 1,        P2c_T2II_CBMZPN_0_1433,none,none
+   1.33891,    1.85424, P 21 21 21,       P212121_SS_CBMZPN_0_734,none,none
+   1.27420,    1.92605, P 21/n 1 1,         P21c_TSI_CBMZPN_0_185,none,none
+   1.32379,    1.96942, P 21/c 1 1,        P21c_SIT_CBMZPN_0_2289,none,none
+   1.32974,    1.98388,      C 2/c,C2c_SI2T_CBMZPN_0_1795_conventional,none,none
+   1.35288,    2.00044,       Pcab,         Pbca_GIS_CBMZPN_0_132,none,none
+   1.33770,    2.00948, P 21/n 1 1,        P21c_IST_CBMZPN_0_2339,none,none
+   1.35999,    2.01575,       P -1,         P-1_TITT_CBMZPN_0_719,none,none
+   1.28133,    2.03135, P 21 21 21,      P212121_TSS_CBMZPN_0_287,none,none
+   1.31091,    2.03298, P 21/c 1 1,         P21c_IST_CBMZPN_0_925,none,none
+   1.34247,    2.05259, P 1 21/a 1,        P21c_IST_CBMZPN_0_2329,none,none
+   1.35246,    2.06624,      C 2/c,C2c_SIT_CBMZPN_0_1517_conventional,none,none
+   1.33852,    2.12763, P 21/n 1 1,        P21c_IST_CBMZPN_0_2074,none,none
+   1.27200,    2.15720,        P 1,          C2_S22_CBMZPN_0_2325,none,none
+   1.33482,    2.23758, P 1 21/n 1,        P21c_STI_CBMZPN_0_1391,none,none
+   1.36057,    2.31579,       P -1,          P-1_TITT_CBMZPN_0_32,none,none
+   1.36093,    2.34607,      P21nb,        Pna21_SSG_CBMZPN_0_205,none,none
+   1.30442,    2.40908,     P 21/c,        P21c_SIT_CBMZPN_0_2088,none,none
+   1.34689,    2.41601, P 1 1 21/b,         P21c_IST_CBMZPN_0_908,none,none
+   1.32052,    2.48150, P 21/c 1 1,        P21c_IST_CBMZPN_0_3151,none,none
+   1.24757,    2.48350,        P 1,R-3_IS_CBMZPN_0_3049_CBMZPN03_form-II,form-II,CBMZPN03
+   1.29480,    2.53171,  P 2/c 1 1,        P2c_T2II_CBMZPN_0_1662,none,none

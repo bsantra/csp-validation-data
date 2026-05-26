@@ -1,0 +1,30 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.52386,    0.00000, P 21/b 1 1,        P21c_SIT_FPAMCA_0_5299,none,none
+   1.49630,    0.28642, P 21/c 1 1,P21c_IST_FPAMCA_3_42_FPAMCA17_form-II,form-II,FPAMCA17
+   1.51969,    0.48042, P 1 1 21/n,        P21c_ITS_FPAMCA_0_2921,none,none
+   1.49121,    0.81583,       Pcab,        Pbca_SIS_FPAMCA_0_1275,none,none
+   1.48276,    0.86412, P 21/c 1 1,P21c_IST_FPAMCA_17_3304_FPAMCA18_form-I,form-I,FPAMCA18
+   1.49382,    0.93241, P 21/b 1 1,P21c_IST_FPAMCA_0_3314_FPAMCA21_form-III,form-III,FPAMCA21
+   1.52822,    0.96083,       P -1,        P-1_ITTT_FPAMCA_0_2825,none,none
+   1.49201,    0.97544,     P 21/c,        P21c_SIT_FPAMCA_1_7256,none,none
+   1.52907,    0.98641, P 1 1 21/n,         P21c_GIT_FPAMCA_1_500,none,none
+   1.47502,    1.12579,       P -1,         P-1_TITT_FPAMCA_2_371,none,none
+   1.48356,    1.20554, P 21/b 1 1,        P21c_SIT_FPAMCA_0_5319,none,none
+   1.47691,    1.26153,       P -1,        P-1_ITTT_FPAMCA_2_3661,none,none
+   1.52333,    1.32765, P 21 21 21,       P212121_SS_FPAMCA_0_109,none,none
+   1.49057,    1.44317, P 21/n 1 1,        P21c_IST_FPAMCA_4_1467,none,none
+   1.49212,    1.46759, P 1 1 21/b,        P21c_TSI_FPAMCA_1_4130,none,none
+   1.50485,    1.48408, P 1 1 21/n,         P21c_GIT_FPAMCA_3_736,none,none
+   1.49632,    1.50082, P 21/b 1 1,        P21c_SIT_FPAMCA_2_3305,none,none
+   1.52738,    1.50856, P 1 1 21/n,        P21c_ITS_FPAMCA_1_3549,none,none
+   1.50093,    1.51076, P 1 1 21/b,       P21c_IST_FPAMCA_15_1892,none,none
+   1.49919,    1.56354,     P 21/c,        P21c_TSI_FPAMCA_0_3190,none,none
+   1.48432,    1.59977, P 21/n 1 1,       P21c_STI_FPAMCA_15_4660,none,none
+   1.48796,    1.63439,       P -1,         P-1_TITT_FPAMCA_2_262,none,none
+   1.45974,    1.67324,     P 21/c,       P21c_ITS_FPAMCA_18_2065,none,none
+   1.51515,    1.73938, P 1 1 21/b,        P21c_IST_FPAMCA_0_2687,none,none
+   1.44159,    1.76410,      C 2/c,C2c_SI2T_FPAMCA_1_22615_conventional,none,none
+   1.51874,    1.77518, P 21/b 1 1,        P21c_IST_FPAMCA_5_2079,none,none
+   1.54220,    1.80111, P 21/n 1 1,        P21c_SIT_FPAMCA_2_3180,none,none
+   1.49120,    1.82295,       Pcab,         Pbca_ISS_FPAMCA_0_972,none,none
+   1.51912,    1.87356,     P 21/c,          P21c_IST_FPAMCA_0_61,none,none

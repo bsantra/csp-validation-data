@@ -1,0 +1,31 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.49378,    0.00000, P 1 1 21/b,P21c_GIT_BISYEH_0_1619_BIYSEH_form-beta-I,form-beta-I,BIYSEH
+   1.50540,    0.24551,       P -1,P-1_ITTT_BISYEH_0_4239_BIYSEH07_form-III,form-III,BIYSEH07
+   1.48137,    0.34343,       P -1,        P-1_ITTT_BISYEH_0_1142,none,none
+   1.52217,    0.38341,     P 21/c,        P21c_IST_BISYEH_0_2039,none,none
+   1.56079,    0.51152,      C 2/c,C2c_I2T_BISYEH_0_842_conventional,none,none
+   1.54059,    0.60492,      P21ab,Pca21_CST_BISYEH_0_160_BIYSEH08_form-alpha-I,form-alpha-I,BIYSEH08
+   1.54577,    0.65718,       Pcab,        Pbca_ISS_BISYEH_0_6719,none,none
+   1.51759,    0.66191,       P -1,        P-1_ITTT_BISYEH_0_1870,none,none
+   1.50863,    0.72089, P 21 21 21,       P212121_SS_BISYEH_0_118,none,none
+   1.49870,    0.73455, P 21 21 21,       P212121_SS_BISYEH_0_107,none,none
+   1.54359,    0.77659, P 1 21/a 1,P21c_GIT_BISYEH_0_6244_BIYSEH06_form-alpha-II,form-alpha-II,BIYSEH06
+   1.53601,    0.91356, P 1 21/a 1,        P21c_GIT_BISYEH_0_6411,none,none
+   1.53541,    0.91414,       Pcab,        Pbca_GIS_BISYEH_0_2238,none,none
+   1.51904,    1.18875, P 21 21 21,        P212121_SS_BISYEH_0_65,none,none
+   1.45653,    1.24588,      C 2/c,C2c_SI2T_BISYEH_0_12688_conventional,none,none
+   1.50280,    1.37438, P 1 1 21/n,        P21c_IST_BISYEH_0_5962,none,none
+   1.50466,    1.71088, P 1 1 21/b,        P21c_IST_BISYEH_0_7841,none,none
+   1.49184,    1.81540, P 1 1 21/b,        P21c_IST_BISYEH_0_3832,none,none
+   1.47946,    1.82586,       P -1,        P-1_ITTT_BISYEH_0_1864,none,none
+   1.49378,    1.87625,       P -1,        P-1_ITTT_BISYEH_0_4526,none,none
+   1.51068,    1.91487,      P21nb,       Pna21_SSG_BISYEH_0_5767,none,none
+   1.48816,    1.92524,      P21cn,       Pna21_SSG_BISYEH_0_2123,none,none
+   1.48509,    1.97549, P 21/c 1 1,P21c_IST_BISYEH_0_7771_BIYSEH17_form-VI,form-VI,BIYSEH17
+   1.46906,    1.97997, P 21/c 1 1,        P21c_TSI_BISYEH_0_6354,none,none
+   1.50635,    2.05089, P 1 1 21/b,        P21c_IST_BISYEH_0_2877,none,none
+   1.47727,    2.16883,       P -1,        P-1_ITTT_BISYEH_3_1111,none,none
+   1.47692,    2.20866, P 1 1 21/n,        P21c_TSI_BISYEH_0_2367,none,none
+   1.45256,    2.21955, P 1 1 21/b,        P21c_IST_BISYEH_0_5365,none,none
+   1.47754,    2.34433, P 21/c 1 1,        P21c_IST_BISYEH_0_7774,none,none
+   1.47866,    2.38626,      C 2/c,C2c_ITG_BISYEH_0_3240_conventional,none,none

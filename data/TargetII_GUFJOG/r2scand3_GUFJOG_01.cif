@@ -1,0 +1,52 @@
+# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1
+data_r2scand3_GUFJOG_01
+
+_symmetry_space_group_name_H-M   "P 21"
+_cell_length_a   3.968336
+_cell_length_b   7.290967
+_cell_length_c   9.311402
+_cell_angle_alpha   89.9998
+_cell_angle_beta   91.2943
+_cell_angle_gamma   90.0004
+_cell_formula_units_Z   2
+
+_csp_NAME_EXP_FORM   none
+_csp_CSD_REFCODE   none
+_csp_title   "P21_TST_GUFJOG_1_878"
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+    S1  S     0.86602090    0.03540695    0.92144998
+    C1  C     0.70091112    0.22952703    0.84439702
+    H1  H     0.56817493    0.32863906    0.91001495
+    C2  C     0.74836795    0.23574099    0.69709601
+    O1  O     0.64518802    0.36929305    0.60635204
+    H2  H     0.52388200    0.46804002    0.66058198
+    C3  C     0.92105012    0.07885795    0.64623999
+    H3  H     0.98607704    0.05441406    0.53467601
+    C4  C     1.00090002   -0.04263106    0.75611604
+    C5  C     1.17035422   -0.21002101    0.74501595
+    N1  N     1.30953920   -0.35100612    0.73748305
+    S2  S     0.13397101    0.53540993    0.07854495
+    C6  C     0.29910592    0.72952699    0.15560296
+    H4  H     0.43181999    0.82863903    0.08998804
+    C7  C     0.25161690    0.73574197    0.30290698
+    O2  O     0.35481508    0.86929401    0.39364902
+    H5  H     0.47611392    0.96803594    0.33941402
+    C8  C     0.07894004    0.57886305    0.35375902
+    H6  H     0.01392406    0.55441096    0.46532203
+    C9  C    -0.00086790    0.45735698    0.24388405
+   C10  C    -0.17038686    0.28999104    0.25499896
+    N2  N    -0.30951686    0.14898899    0.26250705

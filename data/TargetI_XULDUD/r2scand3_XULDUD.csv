@@ -1,0 +1,28 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.28243,    0.00000, P 1 1 21/b,P21c_TIG_XULDUD_0_5124_XULDUD01_form-II,form-II,XULDUD01
+   1.27118,    0.46243,    P b c a,Pbca_ISS_XULDUD_0_3242_XULDUD_form-I,form-I,XULDUD
+   1.28170,    0.52417,    P b c a,        Pbca_ISS_XULDUD_0_3492,none,none
+   1.27251,    0.57244,     P22121,       P21212_TS2_XULDUD_0_308,none,none
+   1.27410,    0.58081,     P 21/c,        P21c_TIG_XULDUD_0_2767,none,none
+   1.26452,    0.63258,   P 1 1 21,         P21_TST_XULDUD_0_5495,none,none
+   1.27740,    0.65420,       Pcab,          Pbca_ISS_XULDUD_0_48,none,none
+   1.27619,    0.72945, P 21 21 21,       P212121_SS_XULDUD_0_739,none,none
+   1.24934,    0.74139,      C 2/c,C2c_SI2T_XULDUD_0_2740_conventional,none,none
+   1.25991,    0.86621,      Pc21b,       Pca21_TGS_XULDUD_0_2448,none,none
+   1.23059,    0.87473,   P 21 1 1,          P21_TST_XULDUD_0_475,none,none
+   1.25380,    0.88561, P 1 1 21/n,        P21c_ITS_XULDUD_0_8099,none,none
+   1.26823,    0.90989, P 21/n 1 1,        P21c_IST_XULDUD_0_3641,none,none
+   1.25638,    0.92125,   P 1 1 21,         P21_TST_XULDUD_0_6642,none,none
+   1.27190,    0.92277,       Pcab,        Pbca_ISS_XULDUD_0_3253,none,none
+   1.24403,    0.98037, P 21 21 21,       P212121_SS_XULDUD_0_834,none,none
+   1.24702,    1.07368, P 21 21 21,     P212121_TSS_XULDUD_0_1743,none,none
+   1.26738,    1.13328,      C 2/c,C2c_IST_XULDUD_0_11448_conventional,none,none
+   1.25249,    1.18557, P 21/c 1 1,        P21c_SIT_XULDUD_0_1135,none,none
+   1.24369,    1.20245, P 21/n 1 1,       P21c_TIG_XULDUD_0_23467,none,none
+   1.25976,    1.24278, P 21/n 1 1,       P21c_TIS_XULDUD_0_31676,none,none
+   1.25784,    1.34410,       P -1,       P-1_ITTT_XULDUD_0_87710,none,none
+   1.24588,    1.39475,      P21cn,         Pna21_SG_XULDUD_0_352,none,none
+   1.24725,    1.46613, P 1 1 21/b,        P21c_IST_XULDUD_0_2043,none,none
+   1.24384,    1.48506,      C 2/c,C2c_SI2T_XULDUD_0_6719_conventional,none,none
+   1.25480,    1.57022, P 1 21/n 1,       P21c_TIS_XULDUD_0_36276,none,none
+   1.23165,    1.57854, P 1 1 21/b,        P21c_STI_XULDUD_0_5439,none,none

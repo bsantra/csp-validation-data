@@ -1,0 +1,31 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.42776,    0.00000, P 1 1 21/b,P21c_GIT_NICOAM_1_392_NICOAM06_form-alpha,form-alpha,NICOAM06
+   1.40656,    0.33745,        P c,           Pc_TGT_NICOAM_3_141,none,none
+   1.43764,    0.39275,   P 1 1 21,P21_TST_NICOAM_2_568_NICOAM07_form-epsilon,form-epsilon,NICOAM07
+   1.44389,    0.44986, P 1 21/n 1,         P21c_IST_NICOAM_2_219,none,none
+   1.42716,    0.47861, P 21/n 1 1,        P21c_STI_NICOAM_1_1242,none,none
+   1.35858,    0.55644,       Pcab,        Pbca_SIS_NICOAM_3_2453,none,none
+   1.43439,    0.59859,      Pbc21,         Pca21_GST_NICOAM_5_58,none,none
+   1.44628,    0.65905, P 21 21 21,      P212121_TSS_NICOAM_5_334,none,none
+   1.43250,    0.68272, P 21/b 1 1,         P21c_STI_NICOAM_1_386,none,none
+   1.40231,    0.70435, P 1 21/n 1,          P21c_SIT_NICOAM_2_24,none,none
+   1.40708,    0.76301, P 21/c 1 1,        P21c_IST_NICOAM_0_3115,none,none
+   1.36435,    0.76949,       P 43,             P43_TT_NICOAM_0_9,none,none
+   1.37418,    0.79029, P 21/n 1 1,         P21c_IST_NICOAM_0_426,none,none
+   1.29476,    0.88585,        P 1,          R-3_IS_NICOAM_3_1196,none,none
+   1.34903,    0.88638,        P c,            Pc_GT_NICOAM_0_248,none,none
+   1.41322,    0.95574, P 21/b 1 1,        P21c_IST_NICOAM_2_1734,none,none
+   1.40268,    0.96291, P 21/b 1 1,        P21c_IST_NICOAM_3_3639,none,none
+   1.39078,    0.98265, P 1 1 21/b,        P21c_IST_NICOAM_2_2157,none,none
+   1.40430,    0.99689, P 21/c 1 1,         P21c_SIT_NICOAM_0_823,none,none
+   1.39256,    1.05345, P 21/c 1 1,         P21c_IST_NICOAM_5_499,none,none
+   1.43076,    1.07568,       P -1,        P-1_ITTT_NICOAM_2_5681,none,none
+   1.34896,    1.09685, P 21/b 1 1,P21c_ITS_NICOAM_1_5223_NICOAM17_form-iota,form-iota,NICOAM17
+   1.35640,    1.14464, P 1 1 21/n,        P21c_STI_NICOAM_0_3145,none,none
+   1.40349,    1.14623,       P -1,       P-1_TITT_NICOAM_0_11271,none,none
+   1.36483,    1.15230,     P 21/c,        P21c_IST_NICOAM_4_4926,none,none
+   1.38616,    1.22310, P 21 21 21,      P212121_TSS_NICOAM_1_865,none,none
+   1.39643,    1.23739,    P b c a,         Pbca_ISS_NICOAM_0_833,none,none
+   1.42355,    1.24596,    P 1 n 1,            Pc_GT_NICOAM_2_125,none,none
+   1.36113,    1.29995, P 1 1 21/b,        P21c_IST_NICOAM_1_3120,none,none
+   1.41910,    1.39234, P 21/b 1 1,         P21c_GIT_NICOAM_3_525,none,none

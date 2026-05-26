@@ -1,0 +1,15 @@
+pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
+   1.79608,    0.00000,     P 21/c,P21_TST_VIPKIO_58_694_VIPKIO01_form-alpha,form-alpha,VIPKIO01
+   1.70809,    1.16698,      C 2/c,C2c_I2T_VIPKIO_45_680_conventional,none,none
+   1.65328,    1.30816, P 21/n 1 1,P21_TST_VIPKIO_22_787_VIPKIO05_form-epsilon,form-epsilon,VIPKIO05
+   1.68425,    1.40822, P 1 1 21/a,P21c_IST_VIPKIO_7_1936_VIPKIO04_form-delta,form-delta,VIPKIO04
+   1.64331,    1.61553,      Pc21b,         Pca21_TGS_VIPKIO_5_77,none,none
+   1.63789,    1.77567, P 21/c 1 1,       P21c_TSI_VIPKIO_10_3439,none,none
+   1.62156,    2.14909,        P 1,           C2_S22_VIPKIO_6_310,none,none
+   1.62140,    2.19612, P 21/n 1 1,        P21c_SIT_VIPKIO_0_1085,none,none
+   1.65904,    2.31812, P 1 1 21/n,P21c_TIG_VIPKIO_11_159_VIPKIO03_form-gamma,form-gamma,VIPKIO03
+   1.72064,    2.44985,     P 21/c,        P21c_SIT_VIPKIO_36_115,none,none
+   1.67982,    2.50120, P 1 1 21/b,P21c_TIG_VIPKIO_3_1746_VIPKIO02_form-beta,form-beta,VIPKIO02
+   1.61774,    2.77451, P 21/n 1 1,       P21c_TIG_VIPKIO_40_1017,none,none
+   1.60012,    2.87590, P 21/c 1 1,       P21c_STI_VIPKIO_64_1776,none,none
+   1.65068,    2.91350, P 21 21 21,       P212121_SS_VIPKIO_0_109,none,none

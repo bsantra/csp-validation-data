@@ -1,0 +1,62 @@
+# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1
+data_r2scand3_AXOSOW_05
+
+_symmetry_space_group_name_H-M   "P 21/c"
+_cell_length_a   3.913824
+_cell_length_b   7.977110
+_cell_length_c   10.180663
+_cell_angle_alpha   90.0000
+_cell_angle_beta   98.6436
+_cell_angle_gamma   90.0000
+_cell_formula_units_Z   4
+
+_csp_NAME_EXP_FORM   none
+_csp_CSD_REFCODE   none
+_csp_title   "P21c_ITS_AXOSOW01_0_1796"
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+    C1  C     0.09561491    0.31393099    0.48124802
+    C2  C    -0.14105703    0.19134900    0.45699197
+    C3  C    -0.26027198    0.14260804    0.31957903
+    O1  O    -0.46318994    0.02769900    0.28416902
+    H1  H    -0.15115288    0.22007306    0.24436200
+    H2  H     0.19333907    0.37721794    0.39876196
+    H3  H     0.20284298    0.35532606    0.58145602
+    H4  H    -0.24581887    0.12362297    0.53580799
+    C4  C     0.90438504    0.81393099    0.01875205
+    C5  C     1.14105694    0.69134900    0.04300800
+    C6  C     1.26027295    0.64260804    0.18042104
+    O2  O     1.46318988    0.52769901    0.21583105
+    H5  H     1.15115381    0.72007294    0.25563797
+    H6  H     0.80666109    0.87721795    0.10123800
+    H7  H     0.79715795    0.85532606   -0.08145605
+    H8  H     1.24581903    0.62362297   -0.03580802
+    C7  C     0.90438502    0.68606902    0.51875201
+    C8  C     1.14105692    0.80865101    0.54300796
+    C9  C     1.26027293    0.85739197    0.68042100
+    O3  O     1.46318986    0.97230101    0.71583102
+    H9  H     1.15115382    0.77992695    0.75563803
+   H10  H     0.80666107    0.62278194    0.60123797
+   H11  H     0.79715796    0.64467396    0.41854401
+   H12  H     1.24581905    0.87637704    0.46419204
+   C10  C     0.09561489    0.18606902    0.98124798
+   C11  C    -0.14105701    0.30865101    0.95699203
+   C12  C    -0.26027200    0.35739197    0.81957899
+    O4  O    -0.46318996    0.47230100    0.78416898
+   H13  H    -0.15115290    0.27992694    0.74436196
+   H14  H     0.19333909    0.12278206    0.89876203
+   H15  H     0.20284194    0.14467395    1.08145598
+   H16  H    -0.24581898    0.37637704    1.03580905
