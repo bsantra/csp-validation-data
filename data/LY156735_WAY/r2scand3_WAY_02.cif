@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_WAY_02
 
-_symmetry_space_group_name_H-M   "P 1"
+_symmetry_space_group_name_H-M   "P 21 21 21"
 _cell_length_a   9.176133
 _cell_length_b   11.504654
 _cell_length_c   12.906903

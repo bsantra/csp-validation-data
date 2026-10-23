@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_PULWIF_74
 
-_symmetry_space_group_name_H-M   "P21/c"
+_symmetry_space_group_name_H-M   "P 21/c 1 1"
 _cell_length_a   3.906289
 _cell_length_b   12.871044
 _cell_length_c   23.182412

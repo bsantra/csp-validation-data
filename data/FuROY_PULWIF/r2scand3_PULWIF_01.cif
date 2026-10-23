@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_PULWIF_01
 
-_symmetry_space_group_name_H-M   "Pnna"
+_symmetry_space_group_name_H-M   "Pcnn"
 _cell_length_a   7.228147
 _cell_length_b   13.887344
 _cell_length_c   22.307718

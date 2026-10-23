@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_QAXMEH_42
 
-_symmetry_space_group_name_H-M   "P 1"
+_symmetry_space_group_name_H-M   "P 21/n 1 1"
 _cell_length_a   3.901502
 _cell_length_b   15.226714
 _cell_length_c   19.470843

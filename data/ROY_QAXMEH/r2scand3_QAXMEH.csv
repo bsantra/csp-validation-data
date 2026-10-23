@@ -1,50 +1,50 @@
 pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
-   1.46564,    0.00000,        P 1,P-1_ITTT_QAXMEH_6_787_QAXMEH02_form-R,form-R,QAXMEH02
+   1.46564,    0.00000,       P -1,P-1_ITTT_QAXMEH_6_787_QAXMEH02_form-R,form-R,QAXMEH02
    1.46759,    0.56511,       Pcab,Pbca_ISS_QAXMEH_8_101_QAXMEH05_form-ORP,form-ORP,QAXMEH05
-   1.46653,    0.79382,        P 1,      P212121_TSS_QAXMEH_8_106,none,none
-   1.51077,    0.80929,        P 1,P21c_TIG_QAXMEH_7_11286_QAXMEH59_form-PO13,form-PO13,QAXMEH59
-   1.46568,    0.81139,        P 1,        P21c_IST_QAXMEH_8_1072,none,none
-   1.47446,    0.82428,        P 1,P21c_GIT_QAXMEH_0_1102_QAXMEH03_form-OP,form-OP,QAXMEH03
+   1.46653,    0.79382, P 21 21 21,      P212121_TSS_QAXMEH_8_106,none,none
+   1.51077,    0.80929, P 1 1 21/b,P21c_TIG_QAXMEH_7_11286_QAXMEH59_form-PO13,form-PO13,QAXMEH59
+   1.46568,    0.81139, P 1 1 21/n,        P21c_IST_QAXMEH_8_1072,none,none
+   1.47446,    0.82428, P 1 1 21/n,P21c_GIT_QAXMEH_0_1102_QAXMEH03_form-OP,form-OP,QAXMEH03
    1.48364,    0.83746,      C 2/c,C2c_SI2T_QAXMEH_6_7151_conventional,none,none
-   1.45179,    0.94957,        P 1,        P21c_GIT_QAXMEH_7_2801,none,none
+   1.45179,    0.94957, P 1 1 21/a,        P21c_GIT_QAXMEH_7_2801,none,none
    1.47152,    1.00454,      C 2/c,C2c_SI2T_QAXMEH_8_2534_conventional,none,none
-   1.47832,    1.04161,        P 1,        P21c_TIS_QAXMEH_6_1683,none,none
-   1.46598,    1.04224,        P 1,        P21c_TIG_QAXMEH_8_1289,none,none
-   1.48777,    1.04755,        P 1,       P212121_TSS_QAXMEH_1_44,none,none
-   1.46233,    1.05284,        P 1,        P21c_TIG_QAXMEH_6_8080,none,none
-   1.50199,    1.08438,        P 1,        P21c_STI_QAXMEH_7_2076,none,none
-   1.47823,    1.09793,        P 1,         P21c_GIT_QAXMEH_6_162,none,none
-   1.46637,    1.10829,        P 1,P21c_TIG_QAXMEH_8_3592_QAXMEH_form-ON,form-ON,QAXMEH
-   1.49639,    1.21321,        P 1,        P21c_IST_QAXMEH_7_6352,none,none
-   1.45791,    1.27818,        P 1,        P21c_TIG_QAXMEH_8_3588,none,none
-   1.46155,    1.32514,        P 1,        P-1_ITTT_QAXMEH_6_7082,none,none
-   1.47211,    1.32924,        P 1,        P21c_IST_QAXMEH_0_5417,none,none
+   1.47832,    1.04161, P 21/c 1 1,        P21c_TIS_QAXMEH_6_1683,none,none
+   1.46598,    1.04224, P 1 1 21/b,        P21c_TIG_QAXMEH_8_1289,none,none
+   1.48777,    1.04755, P 21 21 21,       P212121_TSS_QAXMEH_1_44,none,none
+   1.46233,    1.05284, P 1 1 21/a,        P21c_TIG_QAXMEH_6_8080,none,none
+   1.50199,    1.08438, P 21/n 1 1,        P21c_STI_QAXMEH_7_2076,none,none
+   1.47823,    1.09793, P 1 21/a 1,         P21c_GIT_QAXMEH_6_162,none,none
+   1.46637,    1.10829, P 1 1 21/b,P21c_TIG_QAXMEH_8_3592_QAXMEH_form-ON,form-ON,QAXMEH
+   1.49639,    1.21321, P 21/n 1 1,        P21c_IST_QAXMEH_7_6352,none,none
+   1.45791,    1.27818,     P 21/c,        P21c_TIG_QAXMEH_8_3588,none,none
+   1.46155,    1.32514,       P -1,        P-1_ITTT_QAXMEH_6_7082,none,none
+   1.47211,    1.32924, P 1 1 21/a,        P21c_IST_QAXMEH_0_5417,none,none
    1.48241,    1.40290,    F d d 2,Fdd2_SG_QAXMEH_8_280_conventional,none,none
-   1.48417,    1.45480,        P 1,P21c_TIG_QAXMEH_7_5853_QAXMEH01_form-Y,form-Y,QAXMEH01
-   1.48269,    1.48980,        P 1,P-1_ITTT_QAXMEH_7_1534_QAXMEH53_form-YO4,form-YO4,QAXMEH53
-   1.50053,    1.50955,        P 1,P21c_TIG_QAXMEH_7_73_QAXMEH12_form-YT04,form-YT04,QAXMEH12
-   1.48570,    1.53748,        P 1,        P21c_TIS_QAXMEH_6_2386,none,none
-   1.49730,    1.54003,        P 1,       P21c_TIG_QAXMEH_7_11303,none,none
-   1.48182,    1.56704,        P 1,        P21c_SIT_QAXMEH_8_4607,none,none
-   1.44808,    1.67673,        P 1,        P21c_TSI_QAXMEH_6_1536,none,none
-   1.48464,    1.70266,        P 1,        P-1_ITTT_QAXMEH_0_3393,none,none
-   1.46612,    1.73337,        P 1,P-1_TITT_QAXMEH_7_1187_QAXMEH04_form-YN,form-YN,QAXMEH04
+   1.48417,    1.45480, P 1 1 21/n,P21c_TIG_QAXMEH_7_5853_QAXMEH01_form-Y,form-Y,QAXMEH01
+   1.48269,    1.48980,       P -1,P-1_ITTT_QAXMEH_7_1534_QAXMEH53_form-YO4,form-YO4,QAXMEH53
+   1.50053,    1.50955, P 1 21/n 1,P21c_TIG_QAXMEH_7_73_QAXMEH12_form-YT04,form-YT04,QAXMEH12
+   1.48570,    1.53748, P 1 21/n 1,        P21c_TIS_QAXMEH_6_2386,none,none
+   1.49730,    1.54003,     P 21/c,       P21c_TIG_QAXMEH_7_11303,none,none
+   1.48182,    1.56704, P 21/c 1 1,        P21c_SIT_QAXMEH_8_4607,none,none
+   1.44808,    1.67673, P 1 1 21/b,        P21c_TSI_QAXMEH_6_1536,none,none
+   1.48464,    1.70266,       P -1,        P-1_ITTT_QAXMEH_0_3393,none,none
+   1.46612,    1.73337,       P -1,P-1_TITT_QAXMEH_7_1187_QAXMEH04_form-YN,form-YN,QAXMEH04
    1.47533,    1.77042,      C 2/c,C2c_I2T_QAXMEH_6_1638_conventional,none,none
-   1.47260,    1.81791,        P 1,          P21c_GIT_QAXMEH_0_37,none,none
-   1.48263,    1.81904,        P 1,        P2c_T2II_QAXMEH_5_4126,none,none
-   1.47545,    1.86452,        P 1,       P21212_TS2_QAXMEH_7_999,none,none
-   1.44840,    1.91766,        P 1,        P21c_IST_QAXMEH_8_1579,none,none
-   1.49078,    2.02334,        P 1,        P2c_T2II_QAXMEH_7_2944,none,none
-   1.45887,    2.12451,        P 1,P21c_TIG_QAXMEH_6_10403_QAXMEH60_form-Y19,form-Y19,QAXMEH60
+   1.47260,    1.81791, P 1 21/a 1,          P21c_GIT_QAXMEH_0_37,none,none
+   1.48263,    1.81904,  P 2/c 1 1,        P2c_T2II_QAXMEH_5_4126,none,none
+   1.47545,    1.86452,     P22121,       P21212_TS2_QAXMEH_7_999,none,none
+   1.44840,    1.91766, P 1 1 21/n,        P21c_IST_QAXMEH_8_1579,none,none
+   1.49078,    2.02334,  P 2/n 1 1,        P2c_T2II_QAXMEH_7_2944,none,none
+   1.45887,    2.12451,     P 21/c,P21c_TIG_QAXMEH_6_10403_QAXMEH60_form-Y19,form-Y19,QAXMEH60
    1.43147,    2.12942,    F d d 2,Fdd2_SG_QAXMEH_6_47_conventional,none,none
-   1.44635,    2.19585,        P 1,        P21c_IST_QAXMEH_8_1284,none,none
-   1.45963,    2.26113,        P 1,         P21c_IST_QAXMEH_8_182,none,none
-   1.43253,    2.27634,        P 1,       P212121_SS_QAXMEH_9_411,none,none
-   1.49145,    2.27683,        P 1,        P21c_TIS_QAXMEH_7_8049,none,none
-   1.44022,    2.33032,        P 1,       P21c_TIG_QAXMEH_7_11235,none,none
-   1.43439,    2.37396,        P 1,        P21c_TIS_QAXMEH_7_8142,none,none
-   1.48655,    2.44462,        P 1,         P21c_SIT_QAXMEH_7_550,none,none
-   1.45122,    2.53821,        P 1,         P21c_TSI_QAXMEH_8_511,none,none
+   1.44635,    2.19585, P 1 1 21/b,        P21c_IST_QAXMEH_8_1284,none,none
+   1.45963,    2.26113, P 21/n 1 1,         P21c_IST_QAXMEH_8_182,none,none
+   1.43253,    2.27634, P 21 21 21,       P212121_SS_QAXMEH_9_411,none,none
+   1.49145,    2.27683, P 21/n 1 1,        P21c_TIS_QAXMEH_7_8049,none,none
+   1.44022,    2.33032, P 1 21/n 1,       P21c_TIG_QAXMEH_7_11235,none,none
+   1.43439,    2.37396, P 21/n 1 1,        P21c_TIS_QAXMEH_7_8142,none,none
+   1.48655,    2.44462, P 21/n 1 1,         P21c_SIT_QAXMEH_7_550,none,none
+   1.45122,    2.53821,     P 21/c,         P21c_TSI_QAXMEH_8_511,none,none
    1.45152,    2.60824,       Pcan,         Pbcn_GIG_QAXMEH_6_123,none,none
    1.46398,    2.81464,       Pbna,         Pbcn_GIG_QAXMEH_7_194,none,none
    1.42729,    2.89509,      C 2/c,C2c_ITG_QAXMEH_6_1470_conventional,none,none

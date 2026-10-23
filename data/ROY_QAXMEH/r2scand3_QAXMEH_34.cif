@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_QAXMEH_34
 
-_symmetry_space_group_name_H-M   "P 1"
+_symmetry_space_group_name_H-M   "P22121"
 _cell_length_a   4.115535
 _cell_length_b   12.102146
 _cell_length_c   23.435352

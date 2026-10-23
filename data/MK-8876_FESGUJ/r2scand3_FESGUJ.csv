@@ -1,31 +1,31 @@
 pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
-   1.50507,    0.00000,        P 1,        P-1_TITT_FESGUJ_619_37,none,none
-   1.50251,    0.14342,        P 1,       P21c_TSI_FESGUJ_1933_21,none,none
-   1.51714,    0.21122,        P 1,       P-1_TITT_FESGUJ_1094_51,none,none
-   1.50373,    0.33359,        P 1,       P-1_TITT_FESGUJ_1779_76,none,none
-   1.50988,    0.68506,        P 1,       P21c_TIG_FESGUJ_1520_81,none,none
-   1.46293,    0.87814,        P 1,         P-1_TITT_FESGUJ_966_1,none,none
-   1.49429,    0.88566,        P 1,       P-1_TITT_FESGUJ_619_190,none,none
-   1.48119,    1.23066,        P 1,       P21c_TIG_FESGUJ_1933_53,none,none
+   1.50507,    0.00000,       P -1,        P-1_TITT_FESGUJ_619_37,none,none
+   1.50251,    0.14342, P 1 1 21/b,       P21c_TSI_FESGUJ_1933_21,none,none
+   1.51714,    0.21122,       P -1,       P-1_TITT_FESGUJ_1094_51,none,none
+   1.50373,    0.33359,       P -1,       P-1_TITT_FESGUJ_1779_76,none,none
+   1.50988,    0.68506, P 1 1 21/n,       P21c_TIG_FESGUJ_1520_81,none,none
+   1.46293,    0.87814,       P -1,         P-1_TITT_FESGUJ_966_1,none,none
+   1.49429,    0.88566,       P -1,       P-1_TITT_FESGUJ_619_190,none,none
+   1.48119,    1.23066,     P 21/c,       P21c_TIG_FESGUJ_1933_53,none,none
    1.49258,    1.33221,      C 2/c,C2c_SI2T_FESGUJ_665_27_conventional,none,none
-   1.45297,    1.46526,        P 1,P-1_ITTT_FESGUJ_81_50_FESGUJ_form-I,form-I,FESGUJ
-   1.47078,    1.55219,        P 1,         P-1_ITTT_FESGUJ_60_64,none,none
-   1.46915,    1.57337,        P 1,       P21c_TSI_FESGUJ_1933_26,none,none
-   1.49205,    1.76820,        P 1,         P-1_TITT_FESGUJ_57_69,none,none
-   1.46587,    1.78236,        P 1,       P-1_TITT_FESGUJ_1896_12,none,none
-   1.48294,    1.79094,        P 1,       P-1_TITT_FESGUJ_1896_20,none,none
-   1.45683,    1.87885,        P 1,       P-1_TITT_FESGUJ_1933_38,none,none
-   1.45971,    2.00361,        P 1,       P-1_TITT_FESGUJ_1933_34,none,none
-   1.46372,    2.03569,        P 1,       P-1_ITTT_FESGUJ_928_143,none,none
-   1.48271,    2.09854,        P 1,          P21c_TIG_FESGUJ_61_4,none,none
-   1.44987,    2.24313,        P 1,       P21c_TIG_FESGUJ_1207_64,none,none
-   1.46704,    2.27039,        P 1,       P-1_TITT_FESGUJ_1933_39,none,none
-   1.46833,    2.33512,        P 1,        P-1_ITTT_FESGUJ_122_28,none,none
-   1.48489,    2.37211,        P 1,         P-1_ITTT_FESGUJ_81_53,none,none
-   1.46072,    2.45026,        P 1,        P-1_TITT_FESGUJ_966_19,none,none
-   1.47060,    2.45600,        P 1,        P21c_TIS_FESGUJ_921_26,none,none
-   1.48401,    2.46991,        P 1,       P21c_TIG_FESGUJ_1207_60,none,none
+   1.45297,    1.46526,       P -1,P-1_ITTT_FESGUJ_81_50_FESGUJ_form-I,form-I,FESGUJ
+   1.47078,    1.55219,       P -1,         P-1_ITTT_FESGUJ_60_64,none,none
+   1.46915,    1.57337, P 1 1 21/n,       P21c_TSI_FESGUJ_1933_26,none,none
+   1.49205,    1.76820,       P -1,         P-1_TITT_FESGUJ_57_69,none,none
+   1.46587,    1.78236,       P -1,       P-1_TITT_FESGUJ_1896_12,none,none
+   1.48294,    1.79094,       P -1,       P-1_TITT_FESGUJ_1896_20,none,none
+   1.45683,    1.87885,       P -1,       P-1_TITT_FESGUJ_1933_38,none,none
+   1.45971,    2.00361,       P -1,       P-1_TITT_FESGUJ_1933_34,none,none
+   1.46372,    2.03569,       P -1,       P-1_ITTT_FESGUJ_928_143,none,none
+   1.48271,    2.09854, P 1 1 21/b,          P21c_TIG_FESGUJ_61_4,none,none
+   1.44987,    2.24313, P 1 1 21/n,       P21c_TIG_FESGUJ_1207_64,none,none
+   1.46704,    2.27039,       P -1,       P-1_TITT_FESGUJ_1933_39,none,none
+   1.46833,    2.33512,       P -1,        P-1_ITTT_FESGUJ_122_28,none,none
+   1.48489,    2.37211,       P -1,         P-1_ITTT_FESGUJ_81_53,none,none
+   1.46072,    2.45026,       P -1,        P-1_TITT_FESGUJ_966_19,none,none
+   1.47060,    2.45600, P 21/c 1 1,        P21c_TIS_FESGUJ_921_26,none,none
+   1.48401,    2.46991,     P 21/c,       P21c_TIG_FESGUJ_1207_60,none,none
    1.49193,    2.65729,      C 2/c,C2c_IST_FESGUJ_362_22_conventional,none,none
-   1.46414,    2.68042,        P 1,        P21c_TIG_FESGUJ_257_69,none,none
-   1.49078,    2.90851,        P 1,       P21c_TIG_FESGUJ_363_213,none,none
-   1.49680,    2.92101,        P 1,        P21c_GIT_FESGUJ_642_11,none,none
+   1.46414,    2.68042, P 1 21/n 1,        P21c_TIG_FESGUJ_257_69,none,none
+   1.49078,    2.90851, P 1 1 21/n,       P21c_TIG_FESGUJ_363_213,none,none
+   1.49680,    2.92101, P 1 1 21/a,        P21c_GIT_FESGUJ_642_11,none,none
