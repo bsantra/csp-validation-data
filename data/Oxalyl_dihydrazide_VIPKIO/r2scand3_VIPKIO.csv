@@ -5,7 +5,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.68425,    1.40822, P 1 1 21/a,P21c_IST_VIPKIO_7_1936_VIPKIO04_form-delta,form-delta,VIPKIO04
    1.64331,    1.61553,      Pc21b,         Pca21_TGS_VIPKIO_5_77,none,none
    1.63789,    1.77567, P 21/c 1 1,       P21c_TSI_VIPKIO_10_3439,none,none
-   1.62156,    2.14909,        P 1,           C2_S22_VIPKIO_6_310,none,none
+   1.62156,    2.14909,      C 2/c,           C2_S22_VIPKIO_6_310,none,none
    1.62140,    2.19612, P 21/n 1 1,        P21c_SIT_VIPKIO_0_1085,none,none
    1.65904,    2.31812, P 1 1 21/n,P21c_TIG_VIPKIO_11_159_VIPKIO03_form-gamma,form-gamma,VIPKIO03
    1.72064,    2.44985,     P 21/c,        P21c_SIT_VIPKIO_36_115,none,none

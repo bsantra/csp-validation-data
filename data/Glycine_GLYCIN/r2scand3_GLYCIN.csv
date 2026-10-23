@@ -28,7 +28,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.44621,    2.38740,      C 2/c,C2c_md_dedup_zwitterions-1593_optimized_conventional,none,none
    1.43092,    2.59190,        P 1,P21c_md_dedup_zwitterions-2817_optimized,none,none
    1.39457,    2.66216,        C c,Cc_md_dedup_zwitterions-286_optimized_conventional,none,none
-   1.41263,    2.66556,        P 1,C2_md_dedup_zwitterions-201_optimized,none,none
+   1.41263,    2.66556,        C 2,C2_md_dedup_zwitterions-201_optimized,none,none
    1.32622,    2.82735,        P 1,P21c_md_dedup_zwitterions-697_optimized,none,none
    1.32202,    2.89426,        P 1,         P21_TST_GLYCIN_24_169,none,none
    1.31433,    2.98435,        P 1,Pbca_md_dedup_zwitterions-108_optimized,none,none

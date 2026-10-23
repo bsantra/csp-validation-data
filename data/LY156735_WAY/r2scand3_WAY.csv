@@ -16,7 +16,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.30610,    2.01369,    P b c a,        Pbca_ISS_WAYDAD_25_278,none,none
    1.33978,    2.05599,        P 1,      P21c_TIG_WAYDAD_120_1143,none,none
    1.37206,    2.06520,        P 1,      P21c_TIG_WAYDAD_134_2053,none,none
-   1.33704,    2.12520,        P 1,         C2_S22_WAYDAD_36_1650,none,none
+   1.33704,    2.12520,        C 2,         C2_S22_WAYDAD_36_1650,none,none
    1.35868,    2.14383,        P 1,       P21c_TIS_WAYDAD_34_1939,none,none
    1.35975,    2.20122,        P 1,       Pna21_SSG_WAYDAD_1_4437,none,none
    1.34558,    2.23261,        P 1,        P21c_STI_WAYDAD_36_232,none,none

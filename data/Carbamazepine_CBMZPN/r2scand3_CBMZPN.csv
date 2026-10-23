@@ -20,12 +20,12 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.34247,    2.05259, P 1 21/a 1,        P21c_IST_CBMZPN_0_2329,none,none
    1.35246,    2.06624,      C 2/c,C2c_SIT_CBMZPN_0_1517_conventional,none,none
    1.33852,    2.12763, P 21/n 1 1,        P21c_IST_CBMZPN_0_2074,none,none
-   1.27200,    2.15720,        P 1,          C2_S22_CBMZPN_0_2325,none,none
+   1.27200,    2.15720,        C 2,          C2_S22_CBMZPN_0_2325,none,none
    1.33482,    2.23758, P 1 21/n 1,        P21c_STI_CBMZPN_0_1391,none,none
    1.36057,    2.31579,       P -1,          P-1_TITT_CBMZPN_0_32,none,none
    1.36093,    2.34607,      P21nb,        Pna21_SSG_CBMZPN_0_205,none,none
    1.30442,    2.40908,     P 21/c,        P21c_SIT_CBMZPN_0_2088,none,none
    1.34689,    2.41601, P 1 1 21/b,         P21c_IST_CBMZPN_0_908,none,none
    1.32052,    2.48150, P 21/c 1 1,        P21c_IST_CBMZPN_0_3151,none,none
-   1.24757,    2.48350,        P 1,R-3_IS_CBMZPN_0_3049_CBMZPN03_form-II,form-II,CBMZPN03
+   1.24757,    2.48350,     R -3:H,R-3_IS_CBMZPN_0_3049_CBMZPN03_form-II,form-II,CBMZPN03
    1.29480,    2.53171,  P 2/c 1 1,        P2c_T2II_CBMZPN_0_1662,none,none

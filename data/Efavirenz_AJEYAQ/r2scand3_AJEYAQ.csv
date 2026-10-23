@@ -3,7 +3,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.56837,    0.34943, P 21 21 21,       P212121_SS_AJEYAQ_0_559,none,none
    1.52308,    0.54240, P 21 21 21,       P212121_SS_AJEYAQ_5_291,none,none
    1.58009,    0.79467,       P 21,          P21_TST_AJEYAQ_7_637,none,none
-   1.52208,    0.81105,        P 1,C2_TT22_AJEYAQ_7_95_AJEYAQ04_form-V,form-V,AJEYAQ04
+   1.52208,    0.81105,        C 2,C2_TT22_AJEYAQ_7_95_AJEYAQ04_form-V,form-V,AJEYAQ04
    1.51470,    1.01887, P 21 21 21,       P212121_SS_AJEYAQ_8_653,none,none
    1.58118,    1.18411, P 21 21 21,      P212121_SS_AJEYAQ_2_1632,none,none
    1.53451,    1.21536, P 21 21 21,      P212121_SS_AJEYAQ_6_1382,none,none

@@ -8,4 +8,4 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.77202,    0.41162,   P 21 1 1,          P21_STT_OBEQOD_0_352,none,none
    1.80616,    0.51484, P 1 1 21/a,        P21c_IST_OBEQOD_0_1216,none,none
    1.75270,    0.55067,      C 2/c,C2c_SI2T_OBEQOD_0_10807_conventional,none,none
-   1.79816,    0.59589,        P 1,         P21c_SIT_OBEQOD_0_816,none,none
+   1.79816,    0.59589,      C 2/c,         P21c_SIT_OBEQOD_0_816,none,none

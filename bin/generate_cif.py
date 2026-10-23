@@ -25,6 +25,16 @@ import glob
 import numpy as np
 from schrodinger import structure
 
+HEADER_COMMENT = '''# Structure generated using Schrodinger Crystal Structure Prediction
+#
+# Citation:
+# D. Zhou, I. Bier, B. Santra, L. D. Jacobson, C. Wu, A. Garaizar Suarez,
+# B. Ramirez Almaguer, H. Yu, R. Abel, R. A. Friesner, L. Wang,
+# "A robust crystal structure prediction method to support small molecule
+# drug development with large scale validation and blind study",
+# Nature Communications, 16, 2210 (2025).
+# DOI: 10.1038/s41467-025-57479-1'''
+
 
 def get_cell_params(st):
     """Extract cell parameters from lattice vectors."""
@@ -85,6 +95,7 @@ def write_cif(st, cif_path):
     data_name = os.path.basename(cif_path).replace('.cif', '')
 
     lines = []
+    lines.append(HEADER_COMMENT)
     lines.append('data_' + data_name)
     lines.append('')
     lines.append('_symmetry_space_group_name_H-M   "' + sg + '"')
