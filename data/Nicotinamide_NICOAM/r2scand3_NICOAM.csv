@@ -12,7 +12,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.40708,    0.76301, P 21/c 1 1,        P21c_IST_NICOAM_0_3115,none,none
    1.36435,    0.76949,       P 43,             P43_TT_NICOAM_0_9,none,none
    1.37418,    0.79029, P 21/n 1 1,         P21c_IST_NICOAM_0_426,none,none
-   1.29476,    0.88585,        P 1,          R-3_IS_NICOAM_3_1196,none,none
+   1.29476,    0.88585,     R -3:H,          R-3_IS_NICOAM_3_1196,none,none
    1.34903,    0.88638,        P c,            Pc_GT_NICOAM_0_248,none,none
    1.41322,    0.95574, P 21/b 1 1,        P21c_IST_NICOAM_2_1734,none,none
    1.40268,    0.96291, P 21/b 1 1,        P21c_IST_NICOAM_3_3639,none,none

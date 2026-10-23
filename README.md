@@ -38,13 +38,15 @@ Each `.maegz` file contains all predicted polymorphs for a given molecule, sorte
 | Property | Description |
 |---|---|
 | `s_m_title` | Structure identifier with space group, CSD refcode, and form name |
-| `r_matsci_Etot_(Ry)` | Total DFT energy in Rydberg |
-| `r_matsci_Relative_DFT_energy_per_mol_(kcal/mol)` | Relative energy per molecule |
+| `r_matsci_Etot_(Ry)` | Total DFT energy in Rydberg; may refer to the original calculation cell (see note below) |
+| `r_matsci_Relative_DFT_energy_per_mol_(kcal/mol)` | Relative energy per molecule in kcal/mol, independent of cell representation |
 | `r_m_Unit_Cell_Density/g/cm^3` | Unit cell density |
 | `s_pdb_PDB_CRYST1_Space_Group` | Space group |
 | `s_m_Unit_Cell_Formula` | Unit cell formula with Z value |
 | `s_csp_NAME_EXP_FORM` | Matched experimental form name (e.g., form-I, form-alpha) or `none` |
 | `s_csp_CSD_REFCODE` | Matched CSD refcode or `none` |
+
+**Energy and cell representation:** Many DFT calculations were performed using primitive cells, while the distributed structures may use conventional cells. Consequently, `r_matsci_Etot_(Ry)` does not always correspond to the conventional cell currently stored in a structure; it may refer to the original DFT calculation cell. Do not compare these total energies directly across structures without checking the calculation cell and the number of molecules it contains. The normalized `r_matsci_Relative_DFT_energy_per_mol_(kcal/mol)` remains valid for either primitive or conventional cell representations and should be used to compare polymorph energies within each molecular system. This is also the quantity exported as `r2scand3_relative_energy` in the CSV summaries.
 
 ### CIF files
 

@@ -1,7 +1,7 @@
 pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
    1.27329,    0.00000,        P 1,P21_STT_COCAIN_5_35_COCAIN10_form-I,form-I,COCAIN10
    1.28584,    0.30124,        P 1,          P21_TST_COCAIN_5_299,none,none
-   1.27655,    1.03712,        P 1,            C2_S22_COCAIN_3_31,none,none
+   1.27655,    1.03712,        C 2,            C2_S22_COCAIN_3_31,none,none
    1.26610,    1.06654,        P 1,     P212121_SS_COCAIN_18_1118,none,none
    1.28514,    1.20317,        P 1,       P21212_TS2_COCAIN_3_114,none,none
    1.29997,    1.61333,        P 1,       P212121_SS_COCAIN_5_937,none,none

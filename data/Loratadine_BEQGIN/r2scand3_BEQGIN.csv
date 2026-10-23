@@ -44,7 +44,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.31784,    1.68500,      C 2/c,C2c_SI2T_BEQGIN_78_13197_conventional,none,none
    1.32300,    1.79526, P 21/n 1 1,        P21c_STI_BEQGIN_42_929,none,none
    1.31265,    1.82150, P 21/n 1 1,       P21c_STI_BEQGIN_99_1183,none,none
-   1.32490,    1.85910,        P 1,        C2_S22_BEQGIN_108_2042,none,none
+   1.32490,    1.85910,        C 2,        C2_S22_BEQGIN_108_2042,none,none
    1.31112,    1.88191, P 21/c 1 1,       P21c_IST_BEQGIN_87_6088,none,none
    1.30080,    2.04238, P 21/n 1 1,      P21c_TIS_BEQGIN_329_6482,none,none
    1.32156,    2.10103,    P b c a,          Pbca_GIS_BEQGIN_75_6,none,none

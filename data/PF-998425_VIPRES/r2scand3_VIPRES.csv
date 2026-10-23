@@ -15,7 +15,7 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.30376,    1.16683,        P 1,       P212121_SS_VIPRES_5_872,none,none
    1.31980,    1.18871,        P 1,      P212121_SS_VIPRES_22_436,none,none
    1.31582,    1.21945,        P 1,      P212121_SS_VIPRES_23_456,none,none
-   1.37220,    1.25196,        P 1,           C2_S22_VIPRES_9_439,none,none
+   1.37220,    1.25196,        C 2,           C2_S22_VIPRES_9_439,none,none
    1.36891,    1.38277,        P 1,      P212121_SS_VIPRES_17_802,none,none
    1.35094,    1.40375,        P 1,      P212121_SS_VIPRES_4_1035,none,none
    1.36189,    1.44289,        P 1,       P212121_SS_VIPRES_6_512,none,none

@@ -17,6 +17,8 @@ Options:
 import os
 import sys
 import re
+import numpy as np
+import spglib
 from schrodinger import structure
 from schrodinger.comparison.struc import get_conventional_unit_cell
 
@@ -35,7 +37,15 @@ def update_title(st):
 
 
 def update_cell_properties(conv_st, original_st):
-    """Update formula Z and total energy based on the centering multiplier."""
+    """Refresh cell volume and scale formula Z and total cell energy."""
+    lattice = np.array([
+        [conv_st.property['r_chorus_box_' + axis + component]
+         for component in 'xyz']
+        for axis in 'abc'
+    ])
+    conv_st.property['r_m_Unit_Cell_Volume/Ang.^3'] = float(
+        abs(np.linalg.det(lattice)))
+
     old_natoms = original_st.atom_total
     new_natoms = conv_st.atom_total
     multiplier = new_natoms // old_natoms
@@ -58,6 +68,35 @@ def update_cell_properties(conv_st, original_st):
         conv_st.property['r_matsci_Etot_(Ry)'] = old_etot * multiplier
 
 
+def is_primitive(st, symprec=0.01):
+    """Return True if the conventional standard cell is larger than the input
+    cell, i.e. the input is a primitive cell of a centered lattice.
+
+    Detection is done with spglib rather than by matching the space-group
+    prefix in the title. Prefix matching misses centerings that the title does
+    not advertise (C2, R-3, Cmce, ...) and trusts '_primitive'/'_conventional'
+    tags that may be wrong in the source data.
+    """
+    a = [st.property['r_chorus_box_ax'], st.property['r_chorus_box_ay'],
+         st.property['r_chorus_box_az']]
+    b = [st.property['r_chorus_box_bx'], st.property['r_chorus_box_by'],
+         st.property['r_chorus_box_bz']]
+    c = [st.property['r_chorus_box_cx'], st.property['r_chorus_box_cy'],
+         st.property['r_chorus_box_cz']]
+    lat = np.array([a, b, c])
+    cart = np.array([[at.x, at.y, at.z] for at in st.atom])
+    frac = cart @ np.linalg.inv(lat)
+    nums = [at.atomic_number for at in st.atom]
+    try:
+        ds = spglib.get_symmetry_dataset((lat, frac, nums), symprec=symprec)
+    except Exception:
+        return False
+    if ds is None:
+        return False
+    std = ds.std_positions if hasattr(ds, 'std_positions') else ds['std_positions']
+    return len(std) > st.atom_total
+
+
 def process_folder(folder_path, csd, symprec=0.01):
     """Process a single folder: convert primitive cells to conventional."""
     maegz_path = os.path.join(folder_path, 'r2scand3_' + csd + '.maegz')
@@ -70,7 +109,7 @@ def process_folder(folder_path, csd, symprec=0.01):
 
     for i, st in enumerate(structs):
         title = st.property.get('s_m_title', '')
-        if '_primitive' not in title:
+        if not is_primitive(st, symprec=symprec):
             continue
 
         try:
@@ -80,7 +119,7 @@ def process_folder(folder_path, csd, symprec=0.01):
             # Update title
             update_title(conv_st)
 
-            # Update formula Z and total energy
+            # Update cell volume, formula Z and total energy
             update_cell_properties(conv_st, st)
 
             conv_sg = conv_st.property.get(

@@ -7,6 +7,6 @@ pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCO
    1.21376,    1.10415, P 21 21 21,    P212121_SS_PROGST13_0_1973,none,none
    1.19587,    1.19517, P 21 21 21,    P212121_SS_PROGST13_0_1921,none,none
    1.20596,    1.21705, P 21 21 21,    P212121_SS_PROGST13_0_1048,none,none
-   1.18483,    1.22186,        P 1,       C2_S22_PROGST13_0_15243,none,none
+   1.18483,    1.22186,        C 2,       C2_S22_PROGST13_0_15243,none,none
    1.17546,    1.32225, P 21 21 21,    P212121_SS_PROGST13_0_3702,none,none
    1.18154,    1.37144, P 21 21 21,    P212121_SS_PROGST13_0_1125,none,none
