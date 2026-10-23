@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_BIFHOP_05
 
-_symmetry_space_group_name_H-M   "P 1"
+_symmetry_space_group_name_H-M   "P 21/n 1 1"
 _cell_length_a   7.894636
 _cell_length_b   14.884756
 _cell_length_c   15.556569

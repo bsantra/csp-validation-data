@@ -1,34 +1,34 @@
 pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
-   1.27329,    0.00000,        P 1,P21_STT_COCAIN_5_35_COCAIN10_form-I,form-I,COCAIN10
-   1.28584,    0.30124,        P 1,          P21_TST_COCAIN_5_299,none,none
+   1.27329,    0.00000,       P 21,P21_STT_COCAIN_5_35_COCAIN10_form-I,form-I,COCAIN10
+   1.28584,    0.30124,   P 1 1 21,          P21_TST_COCAIN_5_299,none,none
    1.27655,    1.03712,        C 2,            C2_S22_COCAIN_3_31,none,none
-   1.26610,    1.06654,        P 1,     P212121_SS_COCAIN_18_1118,none,none
-   1.28514,    1.20317,        P 1,       P21212_TS2_COCAIN_3_114,none,none
-   1.29997,    1.61333,        P 1,       P212121_SS_COCAIN_5_937,none,none
-   1.22470,    1.74593,        P 1,     P212121_SS_COCAIN_18_1411,none,none
-   1.22963,    1.78280,        P 1,      P212121_TSS_COCAIN_2_421,none,none
-   1.29333,    1.80190,        P 1,      P212121_SS_COCAIN_3_1016,none,none
-   1.26600,    1.85449,        P 1,     P212121_SS_COCAIN_14_1943,none,none
-   1.24924,    1.93007,        P 1,      P212121_SS_COCAIN_0_1417,none,none
-   1.24871,    1.93168,        P 1,      P212121_TSS_COCAIN_4_428,none,none
-   1.25257,    1.98661,        P 1,      P212121_SS_COCAIN_18_840,none,none
-   1.27819,    2.02471,        P 1,        P212121_SS_COCAIN_3_61,none,none
-   1.28782,    2.10700,        P 1,        P21212_TS2_COCAIN_5_45,none,none
-   1.24770,    2.14301,        P 1,         P21_STT_COCAIN_3_1380,none,none
-   1.22975,    2.15332,        P 1,            P31_ST_COCAIN_2_23,none,none
-   1.28869,    2.15556,        P 1,     P212121_SS_COCAIN_12_2258,none,none
-   1.30562,    2.24067,        P 1,       P212121_SS_COCAIN_3_379,none,none
-   1.25263,    2.30764,        P 1,      P212121_SS_COCAIN_2_1363,none,none
-   1.26037,    2.31002,        P 1,         P21_STT_COCAIN_4_1326,none,none
-   1.26472,    2.31038,        P 1,          P21_STT_COCAIN_2_877,none,none
-   1.26208,    2.33616,        P 1,      P212121_SS_COCAIN_6_1219,none,none
-   1.20860,    2.34183,        P 1,          P21_STT_COCAIN_4_126,none,none
-   1.22664,    2.43496,        P 1,      P212121_TSS_COCAIN_20_87,none,none
-   1.23705,    2.46436,        P 1,           P21_TST_COCAIN_3_77,none,none
-   1.23353,    2.50552,        P 1,            P31_ST_COCAIN_3_18,none,none
-   1.27595,    2.61045,        P 1,       P212121_SS_COCAIN_9_534,none,none
-   1.26770,    2.70517,        P 1,          P21_STT_COCAIN_3_608,none,none
-   1.27919,    2.70845,        P 1,         P21_STT_COCAIN_5_1253,none,none
-   1.22951,    2.75231,        P 1,      P212121_SS_COCAIN_10_355,none,none
-   1.23957,    2.78700,        P 1,       P212121_SS_COCAIN_6_772,none,none
-   1.28114,    2.81483,        P 1,       P212121_SS_COCAIN_3_219,none,none
+   1.26610,    1.06654, P 21 21 21,     P212121_SS_COCAIN_18_1118,none,none
+   1.28514,    1.20317,     P22121,       P21212_TS2_COCAIN_3_114,none,none
+   1.29997,    1.61333, P 21 21 21,       P212121_SS_COCAIN_5_937,none,none
+   1.22470,    1.74593, P 21 21 21,     P212121_SS_COCAIN_18_1411,none,none
+   1.22963,    1.78280, P 21 21 21,      P212121_TSS_COCAIN_2_421,none,none
+   1.29333,    1.80190, P 21 21 21,      P212121_SS_COCAIN_3_1016,none,none
+   1.26600,    1.85449, P 21 21 21,     P212121_SS_COCAIN_14_1943,none,none
+   1.24924,    1.93007, P 21 21 21,      P212121_SS_COCAIN_0_1417,none,none
+   1.24871,    1.93168, P 21 21 21,      P212121_TSS_COCAIN_4_428,none,none
+   1.25257,    1.98661, P 21 21 21,      P212121_SS_COCAIN_18_840,none,none
+   1.27819,    2.02471, P 21 21 21,        P212121_SS_COCAIN_3_61,none,none
+   1.28782,    2.10700,     P22121,        P21212_TS2_COCAIN_5_45,none,none
+   1.24770,    2.14301,   P 1 1 21,         P21_STT_COCAIN_3_1380,none,none
+   1.22975,    2.15332,       P 31,            P31_ST_COCAIN_2_23,none,none
+   1.28869,    2.15556, P 21 21 21,     P212121_SS_COCAIN_12_2258,none,none
+   1.30562,    2.24067, P 21 21 21,       P212121_SS_COCAIN_3_379,none,none
+   1.25263,    2.30764, P 21 21 21,      P212121_SS_COCAIN_2_1363,none,none
+   1.26037,    2.31002,       P 21,         P21_STT_COCAIN_4_1326,none,none
+   1.26472,    2.31038,   P 21 1 1,          P21_STT_COCAIN_2_877,none,none
+   1.26208,    2.33616, P 21 21 21,      P212121_SS_COCAIN_6_1219,none,none
+   1.20860,    2.34183,   P 21 1 1,          P21_STT_COCAIN_4_126,none,none
+   1.22664,    2.43496, P 21 21 21,      P212121_TSS_COCAIN_20_87,none,none
+   1.23705,    2.46436,   P 1 1 21,           P21_TST_COCAIN_3_77,none,none
+   1.23353,    2.50552,       P 31,            P31_ST_COCAIN_3_18,none,none
+   1.27595,    2.61045, P 21 21 21,       P212121_SS_COCAIN_9_534,none,none
+   1.26770,    2.70517,   P 21 1 1,          P21_STT_COCAIN_3_608,none,none
+   1.27919,    2.70845,       P 21,         P21_STT_COCAIN_5_1253,none,none
+   1.22951,    2.75231, P 21 21 21,      P212121_SS_COCAIN_10_355,none,none
+   1.23957,    2.78700, P 21 21 21,       P212121_SS_COCAIN_6_772,none,none
+   1.28114,    2.81483, P 21 21 21,       P212121_SS_COCAIN_3_219,none,none

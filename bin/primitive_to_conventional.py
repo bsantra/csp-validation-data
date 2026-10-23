@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Convert primitive cell structures to conventional cells in r2scand3_<CSD>.maegz
-files. Structures with '_primitive' in the title are converted using
-schrodinger.comparison.struc.get_conventional_unit_cell, which preserves
-bonding, atom ordering, atom properties, and uses the correct Maestro lattice
-convention.
+Detect and repair space groups in every r2scand3_<CSD>.maegz structure,
+including cells that do not need expansion. Preserve the existing cell setting
+where possible; otherwise adjust its origin or basis to match the assigned
+symmetry operations. Primitive centered cells are expanded using Schrodinger's
+conventional-cell converter. Stored DFT energies are preserved.
 
 Usage:
     $SCHRODINGER/run python3 primitive_to_conventional.py [--folder FOLDER] [--symprec SYMPREC]
@@ -17,10 +17,11 @@ Options:
 import os
 import sys
 import re
+import tempfile
 import numpy as np
 import spglib
 from schrodinger import structure
-from schrodinger.comparison.struc import get_conventional_unit_cell
+from schrodinger.application.matsci.nano import space_groups
 
 
 def extract_csd_code(folder_name):
@@ -37,17 +38,24 @@ def update_title(st):
 
 
 def update_cell_properties(conv_st, original_st):
-    """Refresh cell volume and scale formula Z and total cell energy."""
-    lattice = np.array([
-        [conv_st.property['r_chorus_box_' + axis + component]
-         for component in 'xyz']
-        for axis in 'abc'
-    ])
-    conv_st.property['r_m_Unit_Cell_Volume/Ang.^3'] = float(
-        abs(np.linalg.det(lattice)))
+    """Refresh volume and formula Z, preserving original DFT energy metadata."""
+    volume = float(abs(np.linalg.det(get_lattice(conv_st))))
+    old_volume = conv_st.property.get('r_m_Unit_Cell_Volume/Ang.^3')
+    if old_volume is None or not np.isclose(old_volume, volume, rtol=1e-7,
+                                           atol=1e-6):
+        conv_st.property['r_m_Unit_Cell_Volume/Ang.^3'] = volume
+
+    # Total DFT energy can refer to an earlier calculation cell. Atom count
+    # alone cannot establish its normalization, so never rescale it here.
+    for key in ('r_matsci_Etot_(Ry)',
+                'r_matsci_Relative_DFT_energy_per_mol_(kcal/mol)'):
+        if key in original_st.property:
+            conv_st.property[key] = original_st.property[key]
 
     old_natoms = original_st.atom_total
     new_natoms = conv_st.atom_total
+    if new_natoms % old_natoms:
+        raise ValueError('Conventional-cell atom count is not an integer multiple')
     multiplier = new_natoms // old_natoms
 
     if multiplier <= 1:
@@ -62,43 +70,118 @@ def update_cell_properties(conv_st, original_st):
         new_formula = old_formula[:old_formula.rfind(')') + 1] + str(new_z)
         conv_st.property['s_m_Unit_Cell_Formula'] = new_formula
 
-    # Scale total energy by the multiplier
-    if 'r_matsci_Etot_(Ry)' in conv_st.property:
-        old_etot = conv_st.property['r_matsci_Etot_(Ry)']
-        conv_st.property['r_matsci_Etot_(Ry)'] = old_etot * multiplier
+
+def get_lattice(st):
+    """Return lattice vectors as rows, in Maestro's Cartesian coordinates."""
+    return np.array([[st.property['r_chorus_box_' + axis + component]
+                      for component in 'xyz'] for axis in 'abc'])
+
+
+def get_symmetry_dataset(st, symprec=0.01):
+    """Detect symmetry; failures must not silently become P1 assignments."""
+    lattice = get_lattice(st)
+    fractions = st.getXYZ() @ np.linalg.inv(lattice)
+    cell = (lattice, fractions, [atom.atomic_number for atom in st.atom])
+    dataset = spglib.get_symmetry_dataset(cell, symprec=symprec)
+    if dataset is None:
+        raise ValueError('Symmetry detection failed for ' + st.title)
+    return dataset
+
+
+def dataset_value(dataset, key):
+    """Support spglib releases returning dictionaries or dataset objects."""
+    return dataset[key] if isinstance(dataset, dict) else getattr(dataset, key)
+
+
+def matching_space_group(dataset, preferred=''):
+    """Match complete operations, including translations, in the current basis.
+
+    The dataset's international symbol names the standard setting, which may
+    differ from the current cell axes or origin. Do not copy it blindly.
+    """
+    operations = space_groups.get_symmops_from_spglib({
+        key: dataset_value(dataset, key) for key in ('rotations', 'translations')
+    })
+    candidates = [obj.space_group_short_name for obj in
+                  space_groups.get_spacegroups().spg_objs[
+                      int(dataset_value(dataset, 'number'))]
+                  if space_groups.equal_rotations(obj.symmetry_opers, operations)]
+    normalize = lambda name: name.replace(' ', '').replace('_', '')
+    if any(normalize(preferred) == normalize(name) for name in candidates):
+        return preferred
+    return candidates[0] if candidates else None
+
+
+def set_lattice(st, lattice):
+    """Synchronize lattice-vector and CRYST1 properties without idealization."""
+    for i, axis in enumerate('abc'):
+        for j, component in enumerate('xyz'):
+            st.property['r_chorus_box_' + axis + component] = float(lattice[i, j])
+    lengths = np.linalg.norm(lattice, axis=1)
+    for axis, length in zip('abc', lengths):
+        st.property['r_pdb_PDB_CRYST1_' + axis] = float(length)
+    for angle, i, j in (('alpha', 1, 2), ('beta', 0, 2), ('gamma', 0, 1)):
+        cosine = np.dot(lattice[i], lattice[j]) / (lengths[i] * lengths[j])
+        st.property['r_pdb_PDB_CRYST1_' + angle] = float(
+            np.degrees(np.arccos(np.clip(cosine, -1, 1))))
+
+
+def correct_space_group(st, symprec=0.01):
+    """Repair labels for every cell, retaining atomic geometry and topology."""
+    output = st.copy()
+    dataset = get_symmetry_dataset(output, symprec)
+    if len(dataset_value(dataset, 'std_positions')) > output.atom_total:
+        # Keep the heavier dependency optional for metadata-only repairs.
+        from schrodinger.comparison.struc import get_conventional_unit_cell
+        output = get_conventional_unit_cell(output, symprec=symprec,
+                                             reassign_bonds=True)
+        update_title(output)
+        dataset = get_symmetry_dataset(output, symprec)
+
+    preferred = st.property.get('s_pdb_PDB_CRYST1_Space_Group', '').strip()
+    symbol = matching_space_group(dataset, preferred)
+    if symbol is None:
+        # A change of origin is a uniform Cartesian translation and leaves
+        # all molecular geometry, atom ordering, and bonding intact.
+        lattice = get_lattice(output)
+        transform = dataset_value(dataset, 'transformation_matrix')
+        origin = dataset_value(dataset, 'origin_shift')
+        shifted = output.copy()
+        shifted.setXYZ(output.getXYZ() + np.linalg.solve(transform, origin) @ lattice)
+        shifted_dataset = get_symmetry_dataset(shifted, symprec)
+        symbol = matching_space_group(shifted_dataset, preferred)
+        if symbol is not None:
+            output, dataset = shifted, shifted_dataset
+        else:
+            # Change basis, not physical geometry. Do not use std_lattice,
+            # which idealizes the cell metric at the chosen tolerance.
+            if not np.isclose(abs(np.linalg.det(transform)), 1., atol=1e-7):
+                raise ValueError('Unsupported cell-size reduction for ' + st.title)
+            basis = np.linalg.inv(transform).T @ lattice
+            standardized = output.copy()
+            standardized.setXYZ(output.getXYZ() + origin @ basis)
+            set_lattice(standardized, basis)
+            dataset = get_symmetry_dataset(standardized, symprec)
+            symbol = matching_space_group(dataset, preferred)
+            if symbol is None:
+                raise ValueError('No matching space-group setting for ' + st.title)
+            output = standardized
+
+    output.property['s_pdb_PDB_CRYST1_Space_Group'] = symbol
+    output.property['i_matsci_Space_Group_ID'] = int(dataset_value(dataset, 'number'))
+    update_cell_properties(output, st)
+    return output
 
 
 def is_primitive(st, symprec=0.01):
-    """Return True if the conventional standard cell is larger than the input
-    cell, i.e. the input is a primitive cell of a centered lattice.
-
-    Detection is done with spglib rather than by matching the space-group
-    prefix in the title. Prefix matching misses centerings that the title does
-    not advertise (C2, R-3, Cmce, ...) and trusts '_primitive'/'_conventional'
-    tags that may be wrong in the source data.
-    """
-    a = [st.property['r_chorus_box_ax'], st.property['r_chorus_box_ay'],
-         st.property['r_chorus_box_az']]
-    b = [st.property['r_chorus_box_bx'], st.property['r_chorus_box_by'],
-         st.property['r_chorus_box_bz']]
-    c = [st.property['r_chorus_box_cx'], st.property['r_chorus_box_cy'],
-         st.property['r_chorus_box_cz']]
-    lat = np.array([a, b, c])
-    cart = np.array([[at.x, at.y, at.z] for at in st.atom])
-    frac = cart @ np.linalg.inv(lat)
-    nums = [at.atomic_number for at in st.atom]
-    try:
-        ds = spglib.get_symmetry_dataset((lat, frac, nums), symprec=symprec)
-    except Exception:
-        return False
-    if ds is None:
-        return False
-    std = ds.std_positions if hasattr(ds, 'std_positions') else ds['std_positions']
+    """Return whether the standard conventional cell contains more atoms."""
+    ds = get_symmetry_dataset(st, symprec)
+    std = dataset_value(ds, 'std_positions')
     return len(std) > st.atom_total
 
 
 def process_folder(folder_path, csd, symprec=0.01):
-    """Process a single folder: convert primitive cells to conventional."""
+    """Repair all structures and replace the input only after full success."""
     maegz_path = os.path.join(folder_path, 'r2scand3_' + csd + '.maegz')
     if not os.path.exists(maegz_path):
         return 0
@@ -109,18 +192,12 @@ def process_folder(folder_path, csd, symprec=0.01):
 
     for i, st in enumerate(structs):
         title = st.property.get('s_m_title', '')
-        if not is_primitive(st, symprec=symprec):
-            continue
-
         try:
-            conv_st = get_conventional_unit_cell(
-                st, symprec=symprec, reassign_bonds=True)
-
-            # Update title
-            update_title(conv_st)
-
-            # Update cell volume, formula Z and total energy
-            update_cell_properties(conv_st, st)
+            conv_st = correct_space_group(st, symprec=symprec)
+            if (dict(conv_st.property) == dict(st.property)
+                    and np.array_equal(conv_st.getXYZ(), st.getXYZ())
+                    and conv_st.atom_total == st.atom_total):
+                continue
 
             conv_sg = conv_st.property.get(
                 's_pdb_PDB_CRYST1_Space_Group', '').strip()
@@ -132,14 +209,19 @@ def process_folder(folder_path, csd, symprec=0.01):
                   + ' -> ' + conv_sg
                   + ' (' + str(conv_st.atom_total) + ' atoms)')
         except Exception as e:
-            print('  ERROR Rank ' + str(i + 1) + ': ' + title
-                  + ' -> ' + str(e))
+            raise RuntimeError('Rank ' + str(i + 1) + ': ' + title) from e
 
     if modified:
-        writer = structure.StructureWriter(maegz_path)
-        for st in structs:
-            writer.append(st)
-        writer.close()
+        fd, temporary = tempfile.mkstemp(suffix='.maegz', dir=folder_path)
+        os.close(fd)
+        try:
+            with structure.StructureWriter(temporary) as writer:
+                for st in structs:
+                    writer.append(st)
+            os.replace(temporary, maegz_path)
+        finally:
+            if os.path.exists(temporary):
+                os.unlink(temporary)
 
     return converted
 
@@ -178,10 +260,10 @@ def main():
         folder_path = os.path.join(base, folder)
         converted = process_folder(folder_path, csd, symprec)
         if converted > 0:
-            print(folder + ': converted ' + str(converted) + ' structures')
+            print(folder + ': repaired ' + str(converted) + ' structures')
         total_converted += converted
 
-    print('\nTotal converted: ' + str(total_converted) + ' structures')
+    print('\nTotal repaired: ' + str(total_converted) + ' structures')
 
 
 if __name__ == '__main__':

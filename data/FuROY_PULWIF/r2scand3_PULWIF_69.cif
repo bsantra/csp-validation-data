@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_PULWIF_69
 
-_symmetry_space_group_name_H-M   "Pna21"
+_symmetry_space_group_name_H-M   "P21nb"
 _cell_length_a   3.837543
 _cell_length_b   14.163157
 _cell_length_c   20.653033

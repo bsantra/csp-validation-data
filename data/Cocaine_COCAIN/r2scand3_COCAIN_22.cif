@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_COCAIN_22
 
-_symmetry_space_group_name_H-M   "P 1"
+_symmetry_space_group_name_H-M   "P 21 1 1"
 _cell_length_a   6.659473
 _cell_length_b   8.833619
 _cell_length_c   13.548659

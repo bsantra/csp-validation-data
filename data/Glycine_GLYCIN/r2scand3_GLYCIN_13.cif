@@ -9,7 +9,7 @@
 # DOI: 10.1038/s41467-025-57479-1
 data_r2scand3_GLYCIN_13
 
-_symmetry_space_group_name_H-M   "P 1"
+_symmetry_space_group_name_H-M   "Pc21n"
 _cell_length_a   4.780848
 _cell_length_b   7.215766
 _cell_length_c   9.651575

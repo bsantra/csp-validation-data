@@ -72,7 +72,21 @@ $SCHRODINGER/run python3 bin/<script>.py [options]
 |---|---|
 | `generate_csv.py` | Generate CSV summaries from `.maegz` files. Use `--overwrite` to regenerate. |
 | `generate_cif.py` | Generate crystallographic CIF files from `.maegz` files. Use `--overwrite` to regenerate. Use `--folder <name>` for a specific system. |
-| `primitive_to_conventional.py` | Convert primitive cell structures to conventional cells using `schrodinger.comparison.struc.get_conventional_unit_cell`. Use `--symprec` to adjust symmetry tolerance. |
+| `primitive_to_conventional.py` | Reassign space groups for every structure, including cells that do not need expansion. Preserve valid cell settings, adjust the origin or basis when required, and expand primitive centered cells with Schrödinger's conventional-cell converter. Use `--symprec` to adjust symmetry tolerance. |
+
+### Space-group validation
+
+All 1,273 structures across the 66 systems have been checked with spglib 2.0.2 using `symprec=0.01` Å. Space-group symbols and numeric IDs are matched to the symmetry operations in the stored cell setting; valid alternative axis settings are retained. An incorrect `P 1` label is corrected even when the cell does not require expansion. Where an origin or basis adjustment is required, molecular geometry, atom order, and bonding are preserved. Stored cell volumes are checked against the lattice determinants.
+
+The per-structure audit in [`docs/space_group_audit.csv`](docs/space_group_audit.csv) records the previous and corrected assignments, origin/basis and volume changes, and a comparison with a tighter `0.001` Å tolerance. Assignments can depend on tolerance for approximately symmetric optimized structures; rows marked `tolerance_sensitive` should be interpreted accordingly.
+
+Symmetry reassignment preserves the currently stored total DFT energy and relative energy per molecule. Total energies are not automatically rescaled because their original calculation-cell normalization is not guaranteed. No new DFT calculations are performed. CIF and CSV exports are regenerated from the corrected Maestro files.
+
+Regression checks can be run in the Schrödinger Python environment:
+
+```bash
+$SCHRODINGER/run python3 -m unittest discover -s tests -v
+```
 
 ## DFT Method
 

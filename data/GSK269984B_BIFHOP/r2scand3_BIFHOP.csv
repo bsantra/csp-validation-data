@@ -1,26 +1,26 @@
 pbed3_density,r2scand3_relative_energy,space_group,title,NAME_EXP_FORM,CSD_REFCODE
-   1.46925,    0.00000,        P 1,     P212121_SS_BIFHOP_499_157,none,none
-   1.55960,    0.13826,        P 1,       P-1_TITT_BIFHOP_1252_56,none,none
-   1.52637,    0.42959,        P 1,        P-1_ITTT_BIFHOP_48_248,none,none
-   1.49174,    0.56664,        P 1,       P21c_TIG_BIFHOP_1177_39,none,none
-   1.50593,    0.63157,        P 1,        P21c_IST_BIFHOP_326_52,none,none
-   1.52607,    0.63374,        P 1,        P21c_TSI_BIFHOP_609_23,none,none
-   1.54905,    0.73115,        P 1,       P-1_TITT_BIFHOP_1501_50,none,none
+   1.46925,    0.00000, P 21 21 21,     P212121_SS_BIFHOP_499_157,none,none
+   1.55960,    0.13826,       P -1,       P-1_TITT_BIFHOP_1252_56,none,none
+   1.52637,    0.42959,       P -1,        P-1_ITTT_BIFHOP_48_248,none,none
+   1.49174,    0.56664, P 1 1 21/n,       P21c_TIG_BIFHOP_1177_39,none,none
+   1.50593,    0.63157, P 21/n 1 1,        P21c_IST_BIFHOP_326_52,none,none
+   1.52607,    0.63374, P 1 21/n 1,        P21c_TSI_BIFHOP_609_23,none,none
+   1.54905,    0.73115,       P -1,       P-1_TITT_BIFHOP_1501_50,none,none
    1.49244,    0.78234,      C 2/c,C2c_SIT_BIFHOP_908_17_conventional,none,none
-   1.51393,    1.10551,        P 1,P-1_TITT_BIFHOP_48_37_BIFHOP_form-I,form-I,BIFHOP
-   1.51741,    1.17526,        P 1,         P21c_GIT_BIFHOP_908_6,none,none
-   1.51881,    1.23460,        P 1,      P21c_IST_BIFHOP_1013_263,none,none
-   1.51018,    1.36314,        P 1,        P-1_ITTT_BIFHOP_487_95,none,none
-   1.50187,    1.41940,        P 1,         P21c_TIG_BIFHOP_717_2,none,none
-   1.47467,    1.42216,        P 1,        P-1_ITTT_BIFHOP_917_50,none,none
-   1.48775,    1.43758,        P 1,       P-1_ITTT_BIFHOP_1041_23,none,none
-   1.49759,    1.47378,        P 1,        P-1_TITT_BIFHOP_886_93,none,none
-   1.49513,    1.55252,        P 1,        P21c_TSI_BIFHOP_1105_7,none,none
-   1.52793,    1.64568,        P 1,      P21c_IST_BIFHOP_1309_101,none,none
-   1.50515,    1.86780,        P 1,        Pca21_TGS_BIFHOP_84_34,none,none
-   1.51606,    1.91024,        P 1,        P-1_TITT_BIFHOP_1288_9,none,none
-   1.54781,    2.05994,        P 1,       P21c_STI_BIFHOP_1301_69,none,none
-   1.52229,    2.16763,        P 1,        P21c_TIG_BIFHOP_570_37,none,none
-   1.47779,    2.23204,        P 1,       P-1_ITTT_BIFHOP_1256_26,none,none
-   1.44765,    2.86500,        P 1,       P-1_ITTT_BIFHOP_1000_45,none,none
+   1.51393,    1.10551,       P -1,P-1_TITT_BIFHOP_48_37_BIFHOP_form-I,form-I,BIFHOP
+   1.51741,    1.17526, P 21/b 1 1,         P21c_GIT_BIFHOP_908_6,none,none
+   1.51881,    1.23460, P 21/c 1 1,      P21c_IST_BIFHOP_1013_263,none,none
+   1.51018,    1.36314,       P -1,        P-1_ITTT_BIFHOP_487_95,none,none
+   1.50187,    1.41940,     P 21/c,         P21c_TIG_BIFHOP_717_2,none,none
+   1.47467,    1.42216,       P -1,        P-1_ITTT_BIFHOP_917_50,none,none
+   1.48775,    1.43758,       P -1,       P-1_ITTT_BIFHOP_1041_23,none,none
+   1.49759,    1.47378,       P -1,        P-1_TITT_BIFHOP_886_93,none,none
+   1.49513,    1.55252, P 1 1 21/b,        P21c_TSI_BIFHOP_1105_7,none,none
+   1.52793,    1.64568, P 21/c 1 1,      P21c_IST_BIFHOP_1309_101,none,none
+   1.50515,    1.86780,      Pc21b,        Pca21_TGS_BIFHOP_84_34,none,none
+   1.51606,    1.91024,       P -1,        P-1_TITT_BIFHOP_1288_9,none,none
+   1.54781,    2.05994, P 21/c 1 1,       P21c_STI_BIFHOP_1301_69,none,none
+   1.52229,    2.16763, P 1 1 21/n,        P21c_TIG_BIFHOP_570_37,none,none
+   1.47779,    2.23204,       P -1,       P-1_ITTT_BIFHOP_1256_26,none,none
+   1.44765,    2.86500,       P -1,       P-1_ITTT_BIFHOP_1000_45,none,none
    1.47108,    2.88662,    P b c a,        Pbca_SIS_BIFHOP_315_27,none,none
